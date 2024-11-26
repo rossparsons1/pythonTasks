@@ -1,0 +1,7340 @@
+[
+    {
+        "product_name": "Рамбутан",
+        "average_price": 6916,
+        "max_price": 6916,
+        "min_price": 6916
+    },
+    {
+        "product_name": "Рамбутан",
+        "average_price": 8240,
+        "max_price": 8240,
+        "min_price": 8240
+    },
+    {
+        "product_name": "Рамбутан",
+        "average_price": 4451,
+        "max_price": 4451,
+        "min_price": 4451
+    },
+    {
+        "product_name": "Рамбутан",
+        "average_price": 7262,
+        "max_price": 7262,
+        "min_price": 7262
+    },
+    {
+        "product_name": "Рамбутан",
+        "average_price": 4077,
+        "max_price": 4077,
+        "min_price": 4077
+    },
+    {
+        "product_name": "Рамбутан",
+        "average_price": 4465,
+        "max_price": 4465,
+        "min_price": 4465
+    },
+    {
+        "product_name": "Рамбутан",
+        "average_price": 7022,
+        "max_price": 7022,
+        "min_price": 7022
+    },
+    {
+        "product_name": "Рамбутан",
+        "average_price": 3880,
+        "max_price": 3880,
+        "min_price": 3880
+    },
+    {
+        "product_name": "Рамбутан",
+        "average_price": 9987,
+        "max_price": 9987,
+        "min_price": 9987
+    },
+    {
+        "product_name": "Салфетки сухие",
+        "average_price": 2311,
+        "max_price": 2311,
+        "min_price": 2311
+    },
+    {
+        "product_name": "Салфетки сухие",
+        "average_price": 1932,
+        "max_price": 1932,
+        "min_price": 1932
+    },
+    {
+        "product_name": "Салфетки сухие",
+        "average_price": 5016,
+        "max_price": 5016,
+        "min_price": 5016
+    },
+    {
+        "product_name": "Салфетки сухие",
+        "average_price": 7583,
+        "max_price": 7583,
+        "min_price": 7583
+    },
+    {
+        "product_name": "Салфетки сухие",
+        "average_price": 2423,
+        "max_price": 2423,
+        "min_price": 2423
+    },
+    {
+        "product_name": "Салфетки сухие",
+        "average_price": 1924,
+        "max_price": 1924,
+        "min_price": 1924
+    },
+    {
+        "product_name": "Салфетки сухие",
+        "average_price": 4677,
+        "max_price": 4677,
+        "min_price": 4677
+    },
+    {
+        "product_name": "Салфетки сухие",
+        "average_price": 246,
+        "max_price": 246,
+        "min_price": 246
+    },
+    {
+        "product_name": "Салфетки сухие",
+        "average_price": 4564,
+        "max_price": 4564,
+        "min_price": 4564
+    },
+    {
+        "product_name": "Салфетки сухие",
+        "average_price": 9906,
+        "max_price": 9906,
+        "min_price": 9906
+    },
+    {
+        "product_name": "Салфетки сухие",
+        "average_price": 8846,
+        "max_price": 8846,
+        "min_price": 8846
+    },
+    {
+        "product_name": "Салфетки сухие",
+        "average_price": 7688,
+        "max_price": 7688,
+        "min_price": 7688
+    },
+    {
+        "product_name": "Салфетки сухие",
+        "average_price": 9109,
+        "max_price": 9109,
+        "min_price": 9109
+    },
+    {
+        "product_name": "Салфетки сухие",
+        "average_price": 8642,
+        "max_price": 8642,
+        "min_price": 8642
+    },
+    {
+        "product_name": "Салфетки сухие",
+        "average_price": 204,
+        "max_price": 204,
+        "min_price": 204
+    },
+    {
+        "product_name": "Салфетки сухие",
+        "average_price": 4194,
+        "max_price": 4194,
+        "min_price": 4194
+    },
+    {
+        "product_name": "Пироги с мясом",
+        "average_price": 1447,
+        "max_price": 1447,
+        "min_price": 1447
+    },
+    {
+        "product_name": "Пироги с мясом",
+        "average_price": 8131,
+        "max_price": 8131,
+        "min_price": 8131
+    },
+    {
+        "product_name": "Пироги с мясом",
+        "average_price": 1545,
+        "max_price": 1545,
+        "min_price": 1545
+    },
+    {
+        "product_name": "Пироги с мясом",
+        "average_price": 5234,
+        "max_price": 5234,
+        "min_price": 5234
+    },
+    {
+        "product_name": "Пироги с мясом",
+        "average_price": 9588,
+        "max_price": 9588,
+        "min_price": 9588
+    },
+    {
+        "product_name": "Пироги с мясом",
+        "average_price": 8266,
+        "max_price": 8266,
+        "min_price": 8266
+    },
+    {
+        "product_name": "Пироги с мясом",
+        "average_price": 9094,
+        "max_price": 9094,
+        "min_price": 9094
+    },
+    {
+        "product_name": "Пироги с мясом",
+        "average_price": 6112,
+        "max_price": 6112,
+        "min_price": 6112
+    },
+    {
+        "product_name": "Пироги с мясом",
+        "average_price": 3113,
+        "max_price": 3113,
+        "min_price": 3113
+    },
+    {
+        "product_name": "Пироги с мясом",
+        "average_price": 6991,
+        "max_price": 6991,
+        "min_price": 6991
+    },
+    {
+        "product_name": "Ласси",
+        "average_price": 9271,
+        "max_price": 9271,
+        "min_price": 9271
+    },
+    {
+        "product_name": "Ласси",
+        "average_price": 3249,
+        "max_price": 3249,
+        "min_price": 3249
+    },
+    {
+        "product_name": "Ласси",
+        "average_price": 3678,
+        "max_price": 3678,
+        "min_price": 3678
+    },
+    {
+        "product_name": "Ласси",
+        "average_price": 6703,
+        "max_price": 6703,
+        "min_price": 6703
+    },
+    {
+        "product_name": "Ласси",
+        "average_price": 3248,
+        "max_price": 3248,
+        "min_price": 3248
+    },
+    {
+        "product_name": "Ласси",
+        "average_price": 9310,
+        "max_price": 9310,
+        "min_price": 9310
+    },
+    {
+        "product_name": "Карпаччо",
+        "average_price": 8285,
+        "max_price": 8285,
+        "min_price": 8285
+    },
+    {
+        "product_name": "Карпаччо",
+        "average_price": 7651,
+        "max_price": 7651,
+        "min_price": 7651
+    },
+    {
+        "product_name": "Карпаччо",
+        "average_price": 2306,
+        "max_price": 2306,
+        "min_price": 2306
+    },
+    {
+        "product_name": "Карпаччо",
+        "average_price": 9967,
+        "max_price": 9967,
+        "min_price": 9967
+    },
+    {
+        "product_name": "Карпаччо",
+        "average_price": 8545,
+        "max_price": 8545,
+        "min_price": 8545
+    },
+    {
+        "product_name": "Карпаччо",
+        "average_price": 3576,
+        "max_price": 3576,
+        "min_price": 3576
+    },
+    {
+        "product_name": "Карпаччо",
+        "average_price": 929,
+        "max_price": 929,
+        "min_price": 929
+    },
+    {
+        "product_name": "Карпаччо",
+        "average_price": 4044,
+        "max_price": 4044,
+        "min_price": 4044
+    },
+    {
+        "product_name": "Карпаччо",
+        "average_price": 2888,
+        "max_price": 2888,
+        "min_price": 2888
+    },
+    {
+        "product_name": "Карпаччо",
+        "average_price": 2527,
+        "max_price": 2527,
+        "min_price": 2527
+    },
+    {
+        "product_name": "Карпаччо",
+        "average_price": 2001,
+        "max_price": 2001,
+        "min_price": 2001
+    },
+    {
+        "product_name": "Карпаччо",
+        "average_price": 951,
+        "max_price": 951,
+        "min_price": 951
+    },
+    {
+        "product_name": "Кориандр молотый",
+        "average_price": 8112,
+        "max_price": 8112,
+        "min_price": 8112
+    },
+    {
+        "product_name": "Кориандр молотый",
+        "average_price": 9825,
+        "max_price": 9825,
+        "min_price": 9825
+    },
+    {
+        "product_name": "Кориандр молотый",
+        "average_price": 750,
+        "max_price": 750,
+        "min_price": 750
+    },
+    {
+        "product_name": "Кориандр молотый",
+        "average_price": 4572,
+        "max_price": 4572,
+        "min_price": 4572
+    },
+    {
+        "product_name": "Кориандр молотый",
+        "average_price": 4405,
+        "max_price": 4405,
+        "min_price": 4405
+    },
+    {
+        "product_name": "Кориандр молотый",
+        "average_price": 9059,
+        "max_price": 9059,
+        "min_price": 9059
+    },
+    {
+        "product_name": "Сок томатный",
+        "average_price": 2932,
+        "max_price": 2932,
+        "min_price": 2932
+    },
+    {
+        "product_name": "Сок томатный",
+        "average_price": 4655,
+        "max_price": 4655,
+        "min_price": 4655
+    },
+    {
+        "product_name": "Сок томатный",
+        "average_price": 7000,
+        "max_price": 7000,
+        "min_price": 7000
+    },
+    {
+        "product_name": "Сок томатный",
+        "average_price": 1639,
+        "max_price": 1639,
+        "min_price": 1639
+    },
+    {
+        "product_name": "Сок томатный",
+        "average_price": 4343,
+        "max_price": 4343,
+        "min_price": 4343
+    },
+    {
+        "product_name": "Сок томатный",
+        "average_price": 6750,
+        "max_price": 6750,
+        "min_price": 6750
+    },
+    {
+        "product_name": "Сангрия безалкогольная",
+        "average_price": 1556,
+        "max_price": 1556,
+        "min_price": 1556
+    },
+    {
+        "product_name": "Сангрия безалкогольная",
+        "average_price": 738,
+        "max_price": 738,
+        "min_price": 738
+    },
+    {
+        "product_name": "Сангрия безалкогольная",
+        "average_price": 654,
+        "max_price": 654,
+        "min_price": 654
+    },
+    {
+        "product_name": "Сангрия безалкогольная",
+        "average_price": 9285,
+        "max_price": 9285,
+        "min_price": 9285
+    },
+    {
+        "product_name": "Сангрия безалкогольная",
+        "average_price": 8183,
+        "max_price": 8183,
+        "min_price": 8183
+    },
+    {
+        "product_name": "Сангрия безалкогольная",
+        "average_price": 4147,
+        "max_price": 4147,
+        "min_price": 4147
+    },
+    {
+        "product_name": "Сангрия безалкогольная",
+        "average_price": 2418,
+        "max_price": 2418,
+        "min_price": 2418
+    },
+    {
+        "product_name": "Сангрия безалкогольная",
+        "average_price": 8218,
+        "max_price": 8218,
+        "min_price": 8218
+    },
+    {
+        "product_name": "Сангрия безалкогольная",
+        "average_price": 8946,
+        "max_price": 8946,
+        "min_price": 8946
+    },
+    {
+        "product_name": "Сангрия безалкогольная",
+        "average_price": 198,
+        "max_price": 198,
+        "min_price": 198
+    },
+    {
+        "product_name": "Сангрия безалкогольная",
+        "average_price": 3503,
+        "max_price": 3503,
+        "min_price": 3503
+    },
+    {
+        "product_name": "Сангрия безалкогольная",
+        "average_price": 5024,
+        "max_price": 5024,
+        "min_price": 5024
+    },
+    {
+        "product_name": "Сангрия безалкогольная",
+        "average_price": 1044,
+        "max_price": 1044,
+        "min_price": 1044
+    },
+    {
+        "product_name": "Сангрия безалкогольная",
+        "average_price": 9721,
+        "max_price": 9721,
+        "min_price": 9721
+    },
+    {
+        "product_name": "Сангрия безалкогольная",
+        "average_price": 180,
+        "max_price": 180,
+        "min_price": 180
+    },
+    {
+        "product_name": "Кокос",
+        "average_price": 5470,
+        "max_price": 5470,
+        "min_price": 5470
+    },
+    {
+        "product_name": "Кокос",
+        "average_price": 7559,
+        "max_price": 7559,
+        "min_price": 7559
+    },
+    {
+        "product_name": "Кокос",
+        "average_price": 873,
+        "max_price": 873,
+        "min_price": 873
+    },
+    {
+        "product_name": "Кокос",
+        "average_price": 7139,
+        "max_price": 7139,
+        "min_price": 7139
+    },
+    {
+        "product_name": "Кокос",
+        "average_price": 2295,
+        "max_price": 2295,
+        "min_price": 2295
+    },
+    {
+        "product_name": "Кокос",
+        "average_price": 5003,
+        "max_price": 5003,
+        "min_price": 5003
+    },
+    {
+        "product_name": "Кокос",
+        "average_price": 9134,
+        "max_price": 9134,
+        "min_price": 9134
+    },
+    {
+        "product_name": "Кокос",
+        "average_price": 9257,
+        "max_price": 9257,
+        "min_price": 9257
+    },
+    {
+        "product_name": "Кокос",
+        "average_price": 5099,
+        "max_price": 5099,
+        "min_price": 5099
+    },
+    {
+        "product_name": "Кокос",
+        "average_price": 4766,
+        "max_price": 4766,
+        "min_price": 4766
+    },
+    {
+        "product_name": "Кокос",
+        "average_price": 3987,
+        "max_price": 3987,
+        "min_price": 3987
+    },
+    {
+        "product_name": "Кокос",
+        "average_price": 4424,
+        "max_price": 4424,
+        "min_price": 4424
+    },
+    {
+        "product_name": "Кокос",
+        "average_price": 7117,
+        "max_price": 7117,
+        "min_price": 7117
+    },
+    {
+        "product_name": "Кокос",
+        "average_price": 3270,
+        "max_price": 3270,
+        "min_price": 3270
+    },
+    {
+        "product_name": "Кокос",
+        "average_price": 4805,
+        "max_price": 4805,
+        "min_price": 4805
+    },
+    {
+        "product_name": "Кокос",
+        "average_price": 9082,
+        "max_price": 9082,
+        "min_price": 9082
+    },
+    {
+        "product_name": "Матча латте",
+        "average_price": 6922,
+        "max_price": 6922,
+        "min_price": 6922
+    },
+    {
+        "product_name": "Матча латте",
+        "average_price": 2725,
+        "max_price": 2725,
+        "min_price": 2725
+    },
+    {
+        "product_name": "Матча латте",
+        "average_price": 9141,
+        "max_price": 9141,
+        "min_price": 9141
+    },
+    {
+        "product_name": "Матча латте",
+        "average_price": 7321,
+        "max_price": 7321,
+        "min_price": 7321
+    },
+    {
+        "product_name": "Матча латте",
+        "average_price": 1842,
+        "max_price": 1842,
+        "min_price": 1842
+    },
+    {
+        "product_name": "Матча латте",
+        "average_price": 7720,
+        "max_price": 7720,
+        "min_price": 7720
+    },
+    {
+        "product_name": "Матча латте",
+        "average_price": 2879,
+        "max_price": 2879,
+        "min_price": 2879
+    },
+    {
+        "product_name": "Матча латте",
+        "average_price": 372,
+        "max_price": 372,
+        "min_price": 372
+    },
+    {
+        "product_name": "Матча латте",
+        "average_price": 5654,
+        "max_price": 5654,
+        "min_price": 5654
+    },
+    {
+        "product_name": "Матча латте",
+        "average_price": 1908,
+        "max_price": 1908,
+        "min_price": 1908
+    },
+    {
+        "product_name": "Матча латте",
+        "average_price": 3618,
+        "max_price": 3618,
+        "min_price": 3618
+    },
+    {
+        "product_name": "Матча латте",
+        "average_price": 2504,
+        "max_price": 2504,
+        "min_price": 2504
+    },
+    {
+        "product_name": "Сок морковный",
+        "average_price": 1348,
+        "max_price": 1348,
+        "min_price": 1348
+    },
+    {
+        "product_name": "Сок морковный",
+        "average_price": 3184,
+        "max_price": 3184,
+        "min_price": 3184
+    },
+    {
+        "product_name": "Сок морковный",
+        "average_price": 5000,
+        "max_price": 5000,
+        "min_price": 5000
+    },
+    {
+        "product_name": "Сок морковный",
+        "average_price": 5738,
+        "max_price": 5738,
+        "min_price": 5738
+    },
+    {
+        "product_name": "Сок морковный",
+        "average_price": 1835,
+        "max_price": 1835,
+        "min_price": 1835
+    },
+    {
+        "product_name": "Сок морковный",
+        "average_price": 1283,
+        "max_price": 1283,
+        "min_price": 1283
+    },
+    {
+        "product_name": "Сок морковный",
+        "average_price": 1691,
+        "max_price": 1691,
+        "min_price": 1691
+    },
+    {
+        "product_name": "Российский сыр",
+        "average_price": 1607,
+        "max_price": 1607,
+        "min_price": 1607
+    },
+    {
+        "product_name": "Российский сыр",
+        "average_price": 3900,
+        "max_price": 3900,
+        "min_price": 3900
+    },
+    {
+        "product_name": "Российский сыр",
+        "average_price": 5295,
+        "max_price": 5295,
+        "min_price": 5295
+    },
+    {
+        "product_name": "Российский сыр",
+        "average_price": 9017,
+        "max_price": 9017,
+        "min_price": 9017
+    },
+    {
+        "product_name": "Российский сыр",
+        "average_price": 8163,
+        "max_price": 8163,
+        "min_price": 8163
+    },
+    {
+        "product_name": "Российский сыр",
+        "average_price": 9287,
+        "max_price": 9287,
+        "min_price": 9287
+    },
+    {
+        "product_name": "Российский сыр",
+        "average_price": 9560,
+        "max_price": 9560,
+        "min_price": 9560
+    },
+    {
+        "product_name": "Российский сыр",
+        "average_price": 3103,
+        "max_price": 3103,
+        "min_price": 3103
+    },
+    {
+        "product_name": "Российский сыр",
+        "average_price": 1677,
+        "max_price": 1677,
+        "min_price": 1677
+    },
+    {
+        "product_name": "Российский сыр",
+        "average_price": 9217,
+        "max_price": 9217,
+        "min_price": 9217
+    },
+    {
+        "product_name": "Российский сыр",
+        "average_price": 742,
+        "max_price": 742,
+        "min_price": 742
+    },
+    {
+        "product_name": "Российский сыр",
+        "average_price": 1887,
+        "max_price": 1887,
+        "min_price": 1887
+    },
+    {
+        "product_name": "Российский сыр",
+        "average_price": 4822,
+        "max_price": 4822,
+        "min_price": 4822
+    },
+    {
+        "product_name": "Российский сыр",
+        "average_price": 7126,
+        "max_price": 7126,
+        "min_price": 7126
+    },
+    {
+        "product_name": "Шпинат",
+        "average_price": 5222,
+        "max_price": 5222,
+        "min_price": 5222
+    },
+    {
+        "product_name": "Шпинат",
+        "average_price": 6239,
+        "max_price": 6239,
+        "min_price": 6239
+    },
+    {
+        "product_name": "Шпинат",
+        "average_price": 2614,
+        "max_price": 2614,
+        "min_price": 2614
+    },
+    {
+        "product_name": "Шпинат",
+        "average_price": 1606,
+        "max_price": 1606,
+        "min_price": 1606
+    },
+    {
+        "product_name": "Шпинат",
+        "average_price": 3043,
+        "max_price": 3043,
+        "min_price": 3043
+    },
+    {
+        "product_name": "Шпинат",
+        "average_price": 8777,
+        "max_price": 8777,
+        "min_price": 8777
+    },
+    {
+        "product_name": "Шпинат",
+        "average_price": 627,
+        "max_price": 627,
+        "min_price": 627
+    },
+    {
+        "product_name": "Шпинат",
+        "average_price": 9265,
+        "max_price": 9265,
+        "min_price": 9265
+    },
+    {
+        "product_name": "Зеленый перец молотый",
+        "average_price": 4886,
+        "max_price": 4886,
+        "min_price": 4886
+    },
+    {
+        "product_name": "Зеленый перец молотый",
+        "average_price": 5546,
+        "max_price": 5546,
+        "min_price": 5546
+    },
+    {
+        "product_name": "Зеленый перец молотый",
+        "average_price": 8825,
+        "max_price": 8825,
+        "min_price": 8825
+    },
+    {
+        "product_name": "Зеленый перец молотый",
+        "average_price": 1565,
+        "max_price": 1565,
+        "min_price": 1565
+    },
+    {
+        "product_name": "Зеленый перец молотый",
+        "average_price": 6989,
+        "max_price": 6989,
+        "min_price": 6989
+    },
+    {
+        "product_name": "Зеленый перец молотый",
+        "average_price": 6382,
+        "max_price": 6382,
+        "min_price": 6382
+    },
+    {
+        "product_name": "Зеленый перец молотый",
+        "average_price": 2573,
+        "max_price": 2573,
+        "min_price": 2573
+    },
+    {
+        "product_name": "Зеленый перец молотый",
+        "average_price": 7348,
+        "max_price": 7348,
+        "min_price": 7348
+    },
+    {
+        "product_name": "Зеленый перец молотый",
+        "average_price": 2586,
+        "max_price": 2586,
+        "min_price": 2586
+    },
+    {
+        "product_name": "Зеленый перец молотый",
+        "average_price": 2113,
+        "max_price": 2113,
+        "min_price": 2113
+    },
+    {
+        "product_name": "Банан",
+        "average_price": 8923,
+        "max_price": 8923,
+        "min_price": 8923
+    },
+    {
+        "product_name": "Банан",
+        "average_price": 5797,
+        "max_price": 5797,
+        "min_price": 5797
+    },
+    {
+        "product_name": "Банан",
+        "average_price": 989,
+        "max_price": 989,
+        "min_price": 989
+    },
+    {
+        "product_name": "Банан",
+        "average_price": 5649,
+        "max_price": 5649,
+        "min_price": 5649
+    },
+    {
+        "product_name": "Банан",
+        "average_price": 1315,
+        "max_price": 1315,
+        "min_price": 1315
+    },
+    {
+        "product_name": "Банан",
+        "average_price": 5771,
+        "max_price": 5771,
+        "min_price": 5771
+    },
+    {
+        "product_name": "Банан",
+        "average_price": 1997,
+        "max_price": 1997,
+        "min_price": 1997
+    },
+    {
+        "product_name": "Банан",
+        "average_price": 6456,
+        "max_price": 6456,
+        "min_price": 6456
+    },
+    {
+        "product_name": "Банан",
+        "average_price": 2261,
+        "max_price": 2261,
+        "min_price": 2261
+    },
+    {
+        "product_name": "Банан",
+        "average_price": 6957,
+        "max_price": 6957,
+        "min_price": 6957
+    },
+    {
+        "product_name": "Банан",
+        "average_price": 6088,
+        "max_price": 6088,
+        "min_price": 6088
+    },
+    {
+        "product_name": "Банан",
+        "average_price": 644,
+        "max_price": 644,
+        "min_price": 644
+    },
+    {
+        "product_name": "Банан",
+        "average_price": 2382,
+        "max_price": 2382,
+        "min_price": 2382
+    },
+    {
+        "product_name": "Банан",
+        "average_price": 7813,
+        "max_price": 7813,
+        "min_price": 7813
+    },
+    {
+        "product_name": "Сок яблочный",
+        "average_price": 7326,
+        "max_price": 7326,
+        "min_price": 7326
+    },
+    {
+        "product_name": "Сок яблочный",
+        "average_price": 283,
+        "max_price": 283,
+        "min_price": 283
+    },
+    {
+        "product_name": "Сок яблочный",
+        "average_price": 3463,
+        "max_price": 3463,
+        "min_price": 3463
+    },
+    {
+        "product_name": "Сок яблочный",
+        "average_price": 4465,
+        "max_price": 4465,
+        "min_price": 4465
+    },
+    {
+        "product_name": "Сок яблочный",
+        "average_price": 2127,
+        "max_price": 2127,
+        "min_price": 2127
+    },
+    {
+        "product_name": "Сок яблочный",
+        "average_price": 7775,
+        "max_price": 7775,
+        "min_price": 7775
+    },
+    {
+        "product_name": "Сок яблочный",
+        "average_price": 5356,
+        "max_price": 5356,
+        "min_price": 5356
+    },
+    {
+        "product_name": "Сок яблочный",
+        "average_price": 3173,
+        "max_price": 3173,
+        "min_price": 3173
+    },
+    {
+        "product_name": "Фенхель",
+        "average_price": 4194,
+        "max_price": 4194,
+        "min_price": 4194
+    },
+    {
+        "product_name": "Фенхель",
+        "average_price": 3965,
+        "max_price": 3965,
+        "min_price": 3965
+    },
+    {
+        "product_name": "Фенхель",
+        "average_price": 8558,
+        "max_price": 8558,
+        "min_price": 8558
+    },
+    {
+        "product_name": "Фенхель",
+        "average_price": 4690,
+        "max_price": 4690,
+        "min_price": 4690
+    },
+    {
+        "product_name": "Фенхель",
+        "average_price": 6007,
+        "max_price": 6007,
+        "min_price": 6007
+    },
+    {
+        "product_name": "Фенхель",
+        "average_price": 5850,
+        "max_price": 5850,
+        "min_price": 5850
+    },
+    {
+        "product_name": "Фенхель",
+        "average_price": 4874,
+        "max_price": 4874,
+        "min_price": 4874
+    },
+    {
+        "product_name": "Фенхель",
+        "average_price": 414,
+        "max_price": 414,
+        "min_price": 414
+    },
+    {
+        "product_name": "Фенхель",
+        "average_price": 4285,
+        "max_price": 4285,
+        "min_price": 4285
+    },
+    {
+        "product_name": "Фенхель",
+        "average_price": 4865,
+        "max_price": 4865,
+        "min_price": 4865
+    },
+    {
+        "product_name": "Фенхель",
+        "average_price": 7219,
+        "max_price": 7219,
+        "min_price": 7219
+    },
+    {
+        "product_name": "Кесадилья с мясом",
+        "average_price": 7182,
+        "max_price": 7182,
+        "min_price": 7182
+    },
+    {
+        "product_name": "Кесадилья с мясом",
+        "average_price": 6149,
+        "max_price": 6149,
+        "min_price": 6149
+    },
+    {
+        "product_name": "Кесадилья с мясом",
+        "average_price": 7407,
+        "max_price": 7407,
+        "min_price": 7407
+    },
+    {
+        "product_name": "Кесадилья с мясом",
+        "average_price": 8421,
+        "max_price": 8421,
+        "min_price": 8421
+    },
+    {
+        "product_name": "Кесадилья с мясом",
+        "average_price": 4903,
+        "max_price": 4903,
+        "min_price": 4903
+    },
+    {
+        "product_name": "Кесадилья с мясом",
+        "average_price": 7516,
+        "max_price": 7516,
+        "min_price": 7516
+    },
+    {
+        "product_name": "Кесадилья с мясом",
+        "average_price": 4951,
+        "max_price": 4951,
+        "min_price": 4951
+    },
+    {
+        "product_name": "Кесадилья с мясом",
+        "average_price": 8441,
+        "max_price": 8441,
+        "min_price": 8441
+    },
+    {
+        "product_name": "Кесадилья с мясом",
+        "average_price": 4852,
+        "max_price": 4852,
+        "min_price": 4852
+    },
+    {
+        "product_name": "Кесадилья с мясом",
+        "average_price": 1948,
+        "max_price": 1948,
+        "min_price": 1948
+    },
+    {
+        "product_name": "Кесадилья с мясом",
+        "average_price": 6817,
+        "max_price": 6817,
+        "min_price": 6817
+    },
+    {
+        "product_name": "Ройбос",
+        "average_price": 6849,
+        "max_price": 6849,
+        "min_price": 6849
+    },
+    {
+        "product_name": "Ройбос",
+        "average_price": 4800,
+        "max_price": 4800,
+        "min_price": 4800
+    },
+    {
+        "product_name": "Ройбос",
+        "average_price": 6320,
+        "max_price": 6320,
+        "min_price": 6320
+    },
+    {
+        "product_name": "Ройбос",
+        "average_price": 3591,
+        "max_price": 3591,
+        "min_price": 3591
+    },
+    {
+        "product_name": "Ройбос",
+        "average_price": 1131,
+        "max_price": 1131,
+        "min_price": 1131
+    },
+    {
+        "product_name": "Ройбос",
+        "average_price": 6917,
+        "max_price": 6917,
+        "min_price": 6917
+    },
+    {
+        "product_name": "Ройбос",
+        "average_price": 9722,
+        "max_price": 9722,
+        "min_price": 9722
+    },
+    {
+        "product_name": "Ройбос",
+        "average_price": 1377,
+        "max_price": 1377,
+        "min_price": 1377
+    },
+    {
+        "product_name": "Ройбос",
+        "average_price": 7313,
+        "max_price": 7313,
+        "min_price": 7313
+    },
+    {
+        "product_name": "Ройбос",
+        "average_price": 5270,
+        "max_price": 5270,
+        "min_price": 5270
+    },
+    {
+        "product_name": "Ройбос",
+        "average_price": 7507,
+        "max_price": 7507,
+        "min_price": 7507
+    },
+    {
+        "product_name": "Ройбос",
+        "average_price": 1789,
+        "max_price": 1789,
+        "min_price": 1789
+    },
+    {
+        "product_name": "Ройбос",
+        "average_price": 6423,
+        "max_price": 6423,
+        "min_price": 6423
+    },
+    {
+        "product_name": "Ройбос",
+        "average_price": 3240,
+        "max_price": 3240,
+        "min_price": 3240
+    },
+    {
+        "product_name": "Ройбос",
+        "average_price": 3746,
+        "max_price": 3746,
+        "min_price": 3746
+    },
+    {
+        "product_name": "Ройбос",
+        "average_price": 9518,
+        "max_price": 9518,
+        "min_price": 9518
+    },
+    {
+        "product_name": "Ройбос",
+        "average_price": 9286,
+        "max_price": 9286,
+        "min_price": 9286
+    },
+    {
+        "product_name": "Monster Energy",
+        "average_price": 1158,
+        "max_price": 1158,
+        "min_price": 1158
+    },
+    {
+        "product_name": "Monster Energy",
+        "average_price": 8059,
+        "max_price": 8059,
+        "min_price": 8059
+    },
+    {
+        "product_name": "Monster Energy",
+        "average_price": 4737,
+        "max_price": 4737,
+        "min_price": 4737
+    },
+    {
+        "product_name": "Monster Energy",
+        "average_price": 1964,
+        "max_price": 1964,
+        "min_price": 1964
+    },
+    {
+        "product_name": "Monster Energy",
+        "average_price": 5889,
+        "max_price": 5889,
+        "min_price": 5889
+    },
+    {
+        "product_name": "Monster Energy",
+        "average_price": 3230,
+        "max_price": 3230,
+        "min_price": 3230
+    },
+    {
+        "product_name": "Monster Energy",
+        "average_price": 953,
+        "max_price": 953,
+        "min_price": 953
+    },
+    {
+        "product_name": "Monster Energy",
+        "average_price": 1757,
+        "max_price": 1757,
+        "min_price": 1757
+    },
+    {
+        "product_name": "Monster Energy",
+        "average_price": 1256,
+        "max_price": 1256,
+        "min_price": 1256
+    },
+    {
+        "product_name": "Monster Energy",
+        "average_price": 7361,
+        "max_price": 7361,
+        "min_price": 7361
+    },
+    {
+        "product_name": "Monster Energy",
+        "average_price": 3958,
+        "max_price": 3958,
+        "min_price": 3958
+    },
+    {
+        "product_name": "Monster Energy",
+        "average_price": 1507,
+        "max_price": 1507,
+        "min_price": 1507
+    },
+    {
+        "product_name": "Monster Energy",
+        "average_price": 5369,
+        "max_price": 5369,
+        "min_price": 5369
+    },
+    {
+        "product_name": "Шаверма",
+        "average_price": 2604,
+        "max_price": 2604,
+        "min_price": 2604
+    },
+    {
+        "product_name": "Шаверма",
+        "average_price": 6473,
+        "max_price": 6473,
+        "min_price": 6473
+    },
+    {
+        "product_name": "Шаверма",
+        "average_price": 5300,
+        "max_price": 5300,
+        "min_price": 5300
+    },
+    {
+        "product_name": "Шаверма",
+        "average_price": 3180,
+        "max_price": 3180,
+        "min_price": 3180
+    },
+    {
+        "product_name": "Шаверма",
+        "average_price": 2697,
+        "max_price": 2697,
+        "min_price": 2697
+    },
+    {
+        "product_name": "Шаверма",
+        "average_price": 3995,
+        "max_price": 3995,
+        "min_price": 3995
+    },
+    {
+        "product_name": "Шаверма",
+        "average_price": 9585,
+        "max_price": 9585,
+        "min_price": 9585
+    },
+    {
+        "product_name": "Шаверма",
+        "average_price": 9092,
+        "max_price": 9092,
+        "min_price": 9092
+    },
+    {
+        "product_name": "Шаверма",
+        "average_price": 2758,
+        "max_price": 2758,
+        "min_price": 2758
+    },
+    {
+        "product_name": "Шаверма",
+        "average_price": 3365,
+        "max_price": 3365,
+        "min_price": 3365
+    },
+    {
+        "product_name": "Шаверма",
+        "average_price": 1358,
+        "max_price": 1358,
+        "min_price": 1358
+    },
+    {
+        "product_name": "Шаверма",
+        "average_price": 6958,
+        "max_price": 6958,
+        "min_price": 6958
+    },
+    {
+        "product_name": "Шаверма",
+        "average_price": 7914,
+        "max_price": 7914,
+        "min_price": 7914
+    },
+    {
+        "product_name": "Шаверма",
+        "average_price": 8778,
+        "max_price": 8778,
+        "min_price": 8778
+    },
+    {
+        "product_name": "Курортная",
+        "average_price": 1518,
+        "max_price": 1518,
+        "min_price": 1518
+    },
+    {
+        "product_name": "Курортная",
+        "average_price": 6057,
+        "max_price": 6057,
+        "min_price": 6057
+    },
+    {
+        "product_name": "Курортная",
+        "average_price": 1908,
+        "max_price": 1908,
+        "min_price": 1908
+    },
+    {
+        "product_name": "Курортная",
+        "average_price": 1338,
+        "max_price": 1338,
+        "min_price": 1338
+    },
+    {
+        "product_name": "Курортная",
+        "average_price": 5107,
+        "max_price": 5107,
+        "min_price": 5107
+    },
+    {
+        "product_name": "Курортная",
+        "average_price": 7316,
+        "max_price": 7316,
+        "min_price": 7316
+    },
+    {
+        "product_name": "Курортная",
+        "average_price": 1337,
+        "max_price": 1337,
+        "min_price": 1337
+    },
+    {
+        "product_name": "Курортная",
+        "average_price": 7895,
+        "max_price": 7895,
+        "min_price": 7895
+    },
+    {
+        "product_name": "Курортная",
+        "average_price": 8594,
+        "max_price": 8594,
+        "min_price": 8594
+    },
+    {
+        "product_name": "Курортная",
+        "average_price": 6079,
+        "max_price": 6079,
+        "min_price": 6079
+    },
+    {
+        "product_name": "Чай зеленый",
+        "average_price": 5778,
+        "max_price": 5778,
+        "min_price": 5778
+    },
+    {
+        "product_name": "Чай зеленый",
+        "average_price": 7082,
+        "max_price": 7082,
+        "min_price": 7082
+    },
+    {
+        "product_name": "Чай зеленый",
+        "average_price": 1858,
+        "max_price": 1858,
+        "min_price": 1858
+    },
+    {
+        "product_name": "Чай зеленый",
+        "average_price": 3416,
+        "max_price": 3416,
+        "min_price": 3416
+    },
+    {
+        "product_name": "Чай зеленый",
+        "average_price": 4926,
+        "max_price": 4926,
+        "min_price": 4926
+    },
+    {
+        "product_name": "Чай зеленый",
+        "average_price": 4761,
+        "max_price": 4761,
+        "min_price": 4761
+    },
+    {
+        "product_name": "Чай зеленый",
+        "average_price": 5388,
+        "max_price": 5388,
+        "min_price": 5388
+    },
+    {
+        "product_name": "Чай зеленый",
+        "average_price": 9097,
+        "max_price": 9097,
+        "min_price": 9097
+    },
+    {
+        "product_name": "Чай зеленый",
+        "average_price": 2548,
+        "max_price": 2548,
+        "min_price": 2548
+    },
+    {
+        "product_name": "Чай зеленый",
+        "average_price": 1382,
+        "max_price": 1382,
+        "min_price": 1382
+    },
+    {
+        "product_name": "Чай зеленый",
+        "average_price": 1063,
+        "max_price": 1063,
+        "min_price": 1063
+    },
+    {
+        "product_name": "Чай зеленый",
+        "average_price": 8585,
+        "max_price": 8585,
+        "min_price": 8585
+    },
+    {
+        "product_name": "Чай зеленый",
+        "average_price": 5611,
+        "max_price": 5611,
+        "min_price": 5611
+    },
+    {
+        "product_name": "Чай зеленый",
+        "average_price": 388,
+        "max_price": 388,
+        "min_price": 388
+    },
+    {
+        "product_name": "Чай зеленый",
+        "average_price": 4222,
+        "max_price": 4222,
+        "min_price": 4222
+    },
+    {
+        "product_name": "Чай зеленый",
+        "average_price": 4761,
+        "max_price": 4761,
+        "min_price": 4761
+    },
+    {
+        "product_name": "Чай зеленый",
+        "average_price": 1477,
+        "max_price": 1477,
+        "min_price": 1477
+    },
+    {
+        "product_name": "Чай зеленый",
+        "average_price": 8786,
+        "max_price": 8786,
+        "min_price": 8786
+    },
+    {
+        "product_name": "Чай зеленый",
+        "average_price": 3932,
+        "max_price": 3932,
+        "min_price": 3932
+    },
+    {
+        "product_name": "Перец болгарский",
+        "average_price": 5182,
+        "max_price": 5182,
+        "min_price": 5182
+    },
+    {
+        "product_name": "Перец болгарский",
+        "average_price": 5559,
+        "max_price": 5559,
+        "min_price": 5559
+    },
+    {
+        "product_name": "Перец болгарский",
+        "average_price": 1622,
+        "max_price": 1622,
+        "min_price": 1622
+    },
+    {
+        "product_name": "Перец болгарский",
+        "average_price": 8440,
+        "max_price": 8440,
+        "min_price": 8440
+    },
+    {
+        "product_name": "Перец болгарский",
+        "average_price": 3547,
+        "max_price": 3547,
+        "min_price": 3547
+    },
+    {
+        "product_name": "Виноград",
+        "average_price": 4259,
+        "max_price": 4259,
+        "min_price": 4259
+    },
+    {
+        "product_name": "Виноград",
+        "average_price": 3783,
+        "max_price": 3783,
+        "min_price": 3783
+    },
+    {
+        "product_name": "Виноград",
+        "average_price": 9833,
+        "max_price": 9833,
+        "min_price": 9833
+    },
+    {
+        "product_name": "Виноград",
+        "average_price": 3685,
+        "max_price": 3685,
+        "min_price": 3685
+    },
+    {
+        "product_name": "Виноград",
+        "average_price": 6217,
+        "max_price": 6217,
+        "min_price": 6217
+    },
+    {
+        "product_name": "Виноград",
+        "average_price": 3138,
+        "max_price": 3138,
+        "min_price": 3138
+    },
+    {
+        "product_name": "Виноград",
+        "average_price": 2213,
+        "max_price": 2213,
+        "min_price": 2213
+    },
+    {
+        "product_name": "Пакеты для походов",
+        "average_price": 5852,
+        "max_price": 5852,
+        "min_price": 5852
+    },
+    {
+        "product_name": "Пакеты для походов",
+        "average_price": 3307,
+        "max_price": 3307,
+        "min_price": 3307
+    },
+    {
+        "product_name": "Пакеты для походов",
+        "average_price": 3779,
+        "max_price": 3779,
+        "min_price": 3779
+    },
+    {
+        "product_name": "Пакеты для походов",
+        "average_price": 8982,
+        "max_price": 8982,
+        "min_price": 8982
+    },
+    {
+        "product_name": "Пакеты для походов",
+        "average_price": 9210,
+        "max_price": 9210,
+        "min_price": 9210
+    },
+    {
+        "product_name": "Пакеты для походов",
+        "average_price": 8831,
+        "max_price": 8831,
+        "min_price": 8831
+    },
+    {
+        "product_name": "Пакеты для походов",
+        "average_price": 5426,
+        "max_price": 5426,
+        "min_price": 5426
+    },
+    {
+        "product_name": "Пакеты для походов",
+        "average_price": 3790,
+        "max_price": 3790,
+        "min_price": 3790
+    },
+    {
+        "product_name": "Пакеты для походов",
+        "average_price": 9319,
+        "max_price": 9319,
+        "min_price": 9319
+    },
+    {
+        "product_name": "Пакеты для походов",
+        "average_price": 8301,
+        "max_price": 8301,
+        "min_price": 8301
+    },
+    {
+        "product_name": "Пакеты для походов",
+        "average_price": 8208,
+        "max_price": 8208,
+        "min_price": 8208
+    },
+    {
+        "product_name": "Пакеты для походов",
+        "average_price": 3335,
+        "max_price": 3335,
+        "min_price": 3335
+    },
+    {
+        "product_name": "Пакеты для походов",
+        "average_price": 6750,
+        "max_price": 6750,
+        "min_price": 6750
+    },
+    {
+        "product_name": "Пакеты для походов",
+        "average_price": 3620,
+        "max_price": 3620,
+        "min_price": 3620
+    },
+    {
+        "product_name": "Курица",
+        "average_price": 1591,
+        "max_price": 1591,
+        "min_price": 1591
+    },
+    {
+        "product_name": "Курица",
+        "average_price": 9142,
+        "max_price": 9142,
+        "min_price": 9142
+    },
+    {
+        "product_name": "Курица",
+        "average_price": 4657,
+        "max_price": 4657,
+        "min_price": 4657
+    },
+    {
+        "product_name": "Курица",
+        "average_price": 9697,
+        "max_price": 9697,
+        "min_price": 9697
+    },
+    {
+        "product_name": "Курица",
+        "average_price": 7535,
+        "max_price": 7535,
+        "min_price": 7535
+    },
+    {
+        "product_name": "Курица",
+        "average_price": 6991,
+        "max_price": 6991,
+        "min_price": 6991
+    },
+    {
+        "product_name": "Курица",
+        "average_price": 8264,
+        "max_price": 8264,
+        "min_price": 8264
+    },
+    {
+        "product_name": "Пакеты для детских вещей",
+        "average_price": 7815,
+        "max_price": 7815,
+        "min_price": 7815
+    },
+    {
+        "product_name": "Пакеты для детских вещей",
+        "average_price": 8671,
+        "max_price": 8671,
+        "min_price": 8671
+    },
+    {
+        "product_name": "Пакеты для детских вещей",
+        "average_price": 3810,
+        "max_price": 3810,
+        "min_price": 3810
+    },
+    {
+        "product_name": "Пакеты для детских вещей",
+        "average_price": 7353,
+        "max_price": 7353,
+        "min_price": 7353
+    },
+    {
+        "product_name": "Пакеты для детских вещей",
+        "average_price": 545,
+        "max_price": 545,
+        "min_price": 545
+    },
+    {
+        "product_name": "Пакеты для детских вещей",
+        "average_price": 9838,
+        "max_price": 9838,
+        "min_price": 9838
+    },
+    {
+        "product_name": "Пакеты для детских вещей",
+        "average_price": 8094,
+        "max_price": 8094,
+        "min_price": 8094
+    },
+    {
+        "product_name": "Пакеты для детских вещей",
+        "average_price": 1229,
+        "max_price": 1229,
+        "min_price": 1229
+    },
+    {
+        "product_name": "Пакеты для детских вещей",
+        "average_price": 6449,
+        "max_price": 6449,
+        "min_price": 6449
+    },
+    {
+        "product_name": "Пакеты для детских вещей",
+        "average_price": 4380,
+        "max_price": 4380,
+        "min_price": 4380
+    },
+    {
+        "product_name": "Пакеты для детских вещей",
+        "average_price": 6720,
+        "max_price": 6720,
+        "min_price": 6720
+    },
+    {
+        "product_name": "Пакеты для детских вещей",
+        "average_price": 9512,
+        "max_price": 9512,
+        "min_price": 9512
+    },
+    {
+        "product_name": "Пакеты для детских вещей",
+        "average_price": 2966,
+        "max_price": 2966,
+        "min_price": 2966
+    },
+    {
+        "product_name": "Пакеты для детских вещей",
+        "average_price": 9475,
+        "max_price": 9475,
+        "min_price": 9475
+    },
+    {
+        "product_name": "Пакеты для детских вещей",
+        "average_price": 3098,
+        "max_price": 3098,
+        "min_price": 3098
+    },
+    {
+        "product_name": "Пакеты для детских вещей",
+        "average_price": 3529,
+        "max_price": 3529,
+        "min_price": 3529
+    },
+    {
+        "product_name": "Пакеты для косметики",
+        "average_price": 210,
+        "max_price": 210,
+        "min_price": 210
+    },
+    {
+        "product_name": "Пакеты для косметики",
+        "average_price": 196,
+        "max_price": 196,
+        "min_price": 196
+    },
+    {
+        "product_name": "Пакеты для косметики",
+        "average_price": 8485,
+        "max_price": 8485,
+        "min_price": 8485
+    },
+    {
+        "product_name": "Пакеты для косметики",
+        "average_price": 3425,
+        "max_price": 3425,
+        "min_price": 3425
+    },
+    {
+        "product_name": "Пакеты для косметики",
+        "average_price": 4558,
+        "max_price": 4558,
+        "min_price": 4558
+    },
+    {
+        "product_name": "Пакеты для косметики",
+        "average_price": 1022,
+        "max_price": 1022,
+        "min_price": 1022
+    },
+    {
+        "product_name": "Пакеты для косметики",
+        "average_price": 6976,
+        "max_price": 6976,
+        "min_price": 6976
+    },
+    {
+        "product_name": "Пакеты для косметики",
+        "average_price": 7100,
+        "max_price": 7100,
+        "min_price": 7100
+    },
+    {
+        "product_name": "Пакеты для косметики",
+        "average_price": 546,
+        "max_price": 546,
+        "min_price": 546
+    },
+    {
+        "product_name": "Пакеты для косметики",
+        "average_price": 6123,
+        "max_price": 6123,
+        "min_price": 6123
+    },
+    {
+        "product_name": "Пакеты для косметики",
+        "average_price": 8843,
+        "max_price": 8843,
+        "min_price": 8843
+    },
+    {
+        "product_name": "Молоко",
+        "average_price": 5737,
+        "max_price": 5737,
+        "min_price": 5737
+    },
+    {
+        "product_name": "Молоко",
+        "average_price": 4294,
+        "max_price": 4294,
+        "min_price": 4294
+    },
+    {
+        "product_name": "Молоко",
+        "average_price": 9805,
+        "max_price": 9805,
+        "min_price": 9805
+    },
+    {
+        "product_name": "Молоко",
+        "average_price": 9326,
+        "max_price": 9326,
+        "min_price": 9326
+    },
+    {
+        "product_name": "Молоко",
+        "average_price": 5049,
+        "max_price": 5049,
+        "min_price": 5049
+    },
+    {
+        "product_name": "Молоко",
+        "average_price": 1560,
+        "max_price": 1560,
+        "min_price": 1560
+    },
+    {
+        "product_name": "Молоко",
+        "average_price": 7363,
+        "max_price": 7363,
+        "min_price": 7363
+    },
+    {
+        "product_name": "Молоко",
+        "average_price": 3420,
+        "max_price": 3420,
+        "min_price": 3420
+    },
+    {
+        "product_name": "Молоко",
+        "average_price": 4446,
+        "max_price": 4446,
+        "min_price": 4446
+    },
+    {
+        "product_name": "Молоко",
+        "average_price": 6625,
+        "max_price": 6625,
+        "min_price": 6625
+    },
+    {
+        "product_name": "Молоко",
+        "average_price": 5003,
+        "max_price": 5003,
+        "min_price": 5003
+    },
+    {
+        "product_name": "Кострец",
+        "average_price": 7234,
+        "max_price": 7234,
+        "min_price": 7234
+    },
+    {
+        "product_name": "Кострец",
+        "average_price": 1264,
+        "max_price": 1264,
+        "min_price": 1264
+    },
+    {
+        "product_name": "Кострец",
+        "average_price": 8929,
+        "max_price": 8929,
+        "min_price": 8929
+    },
+    {
+        "product_name": "Кострец",
+        "average_price": 3071,
+        "max_price": 3071,
+        "min_price": 3071
+    },
+    {
+        "product_name": "Кострец",
+        "average_price": 5374,
+        "max_price": 5374,
+        "min_price": 5374
+    },
+    {
+        "product_name": "Кострец",
+        "average_price": 5160,
+        "max_price": 5160,
+        "min_price": 5160
+    },
+    {
+        "product_name": "Кострец",
+        "average_price": 4352,
+        "max_price": 4352,
+        "min_price": 4352
+    },
+    {
+        "product_name": "Кострец",
+        "average_price": 9979,
+        "max_price": 9979,
+        "min_price": 9979
+    },
+    {
+        "product_name": "Кострец",
+        "average_price": 4334,
+        "max_price": 4334,
+        "min_price": 4334
+    },
+    {
+        "product_name": "Кострец",
+        "average_price": 4907,
+        "max_price": 4907,
+        "min_price": 4907
+    },
+    {
+        "product_name": "Кострец",
+        "average_price": 7379,
+        "max_price": 7379,
+        "min_price": 7379
+    },
+    {
+        "product_name": "Кострец",
+        "average_price": 8959,
+        "max_price": 8959,
+        "min_price": 8959
+    },
+    {
+        "product_name": "Кострец",
+        "average_price": 8954,
+        "max_price": 8954,
+        "min_price": 8954
+    },
+    {
+        "product_name": "Кострец",
+        "average_price": 581,
+        "max_price": 581,
+        "min_price": 581
+    },
+    {
+        "product_name": "Кострец",
+        "average_price": 9222,
+        "max_price": 9222,
+        "min_price": 9222
+    },
+    {
+        "product_name": "Кострец",
+        "average_price": 9663,
+        "max_price": 9663,
+        "min_price": 9663
+    },
+    {
+        "product_name": "Кострец",
+        "average_price": 2117,
+        "max_price": 2117,
+        "min_price": 2117
+    },
+    {
+        "product_name": "Кострец",
+        "average_price": 475,
+        "max_price": 475,
+        "min_price": 475
+    },
+    {
+        "product_name": "Чай зеленый",
+        "average_price": 7915,
+        "max_price": 7915,
+        "min_price": 7915
+    },
+    {
+        "product_name": "Чай зеленый",
+        "average_price": 1924,
+        "max_price": 1924,
+        "min_price": 1924
+    },
+    {
+        "product_name": "Чай зеленый",
+        "average_price": 5580,
+        "max_price": 5580,
+        "min_price": 5580
+    },
+    {
+        "product_name": "Чай зеленый",
+        "average_price": 1249,
+        "max_price": 1249,
+        "min_price": 1249
+    },
+    {
+        "product_name": "Чай зеленый",
+        "average_price": 4638,
+        "max_price": 4638,
+        "min_price": 4638
+    },
+    {
+        "product_name": "Чай зеленый",
+        "average_price": 7503,
+        "max_price": 7503,
+        "min_price": 7503
+    },
+    {
+        "product_name": "Чай зеленый",
+        "average_price": 1170,
+        "max_price": 1170,
+        "min_price": 1170
+    },
+    {
+        "product_name": "Чай зеленый",
+        "average_price": 3126,
+        "max_price": 3126,
+        "min_price": 3126
+    },
+    {
+        "product_name": "Чай зеленый",
+        "average_price": 2962,
+        "max_price": 2962,
+        "min_price": 2962
+    },
+    {
+        "product_name": "Плечо",
+        "average_price": 2955,
+        "max_price": 2955,
+        "min_price": 2955
+    },
+    {
+        "product_name": "Плечо",
+        "average_price": 6274,
+        "max_price": 6274,
+        "min_price": 6274
+    },
+    {
+        "product_name": "Плечо",
+        "average_price": 5618,
+        "max_price": 5618,
+        "min_price": 5618
+    },
+    {
+        "product_name": "Плечо",
+        "average_price": 3572,
+        "max_price": 3572,
+        "min_price": 3572
+    },
+    {
+        "product_name": "Плечо",
+        "average_price": 9754,
+        "max_price": 9754,
+        "min_price": 9754
+    },
+    {
+        "product_name": "Плечо",
+        "average_price": 5546,
+        "max_price": 5546,
+        "min_price": 5546
+    },
+    {
+        "product_name": "Плечо",
+        "average_price": 167,
+        "max_price": 167,
+        "min_price": 167
+    },
+    {
+        "product_name": "Плечо",
+        "average_price": 8906,
+        "max_price": 8906,
+        "min_price": 8906
+    },
+    {
+        "product_name": "Плечо",
+        "average_price": 732,
+        "max_price": 732,
+        "min_price": 732
+    },
+    {
+        "product_name": "Плечо",
+        "average_price": 351,
+        "max_price": 351,
+        "min_price": 351
+    },
+    {
+        "product_name": "Плечо",
+        "average_price": 7220,
+        "max_price": 7220,
+        "min_price": 7220
+    },
+    {
+        "product_name": "Плечо",
+        "average_price": 1290,
+        "max_price": 1290,
+        "min_price": 1290
+    },
+    {
+        "product_name": "Плечо",
+        "average_price": 9232,
+        "max_price": 9232,
+        "min_price": 9232
+    },
+    {
+        "product_name": "Плечо",
+        "average_price": 6383,
+        "max_price": 6383,
+        "min_price": 6383
+    },
+    {
+        "product_name": "Плечо",
+        "average_price": 5068,
+        "max_price": 5068,
+        "min_price": 5068
+    },
+    {
+        "product_name": "Плечо",
+        "average_price": 1603,
+        "max_price": 1603,
+        "min_price": 1603
+    },
+    {
+        "product_name": "Плечо",
+        "average_price": 1103,
+        "max_price": 1103,
+        "min_price": 1103
+    },
+    {
+        "product_name": "Плечо",
+        "average_price": 7586,
+        "max_price": 7586,
+        "min_price": 7586
+    },
+    {
+        "product_name": "Плечо",
+        "average_price": 8406,
+        "max_price": 8406,
+        "min_price": 8406
+    },
+    {
+        "product_name": "Плечо",
+        "average_price": 6889,
+        "max_price": 6889,
+        "min_price": 6889
+    },
+    {
+        "product_name": "Конфи",
+        "average_price": 2912,
+        "max_price": 2912,
+        "min_price": 2912
+    },
+    {
+        "product_name": "Конфи",
+        "average_price": 1889,
+        "max_price": 1889,
+        "min_price": 1889
+    },
+    {
+        "product_name": "Конфи",
+        "average_price": 8674,
+        "max_price": 8674,
+        "min_price": 8674
+    },
+    {
+        "product_name": "Конфи",
+        "average_price": 5121,
+        "max_price": 5121,
+        "min_price": 5121
+    },
+    {
+        "product_name": "Конфи",
+        "average_price": 2898,
+        "max_price": 2898,
+        "min_price": 2898
+    },
+    {
+        "product_name": "Конфи",
+        "average_price": 7574,
+        "max_price": 7574,
+        "min_price": 7574
+    },
+    {
+        "product_name": "Паштет",
+        "average_price": 8501,
+        "max_price": 8501,
+        "min_price": 8501
+    },
+    {
+        "product_name": "Паштет",
+        "average_price": 9519,
+        "max_price": 9519,
+        "min_price": 9519
+    },
+    {
+        "product_name": "Паштет",
+        "average_price": 5453,
+        "max_price": 5453,
+        "min_price": 5453
+    },
+    {
+        "product_name": "Паштет",
+        "average_price": 4919,
+        "max_price": 4919,
+        "min_price": 4919
+    },
+    {
+        "product_name": "Паштет",
+        "average_price": 3753,
+        "max_price": 3753,
+        "min_price": 3753
+    },
+    {
+        "product_name": "Паштет",
+        "average_price": 6355,
+        "max_price": 6355,
+        "min_price": 6355
+    },
+    {
+        "product_name": "Паштет",
+        "average_price": 4923,
+        "max_price": 4923,
+        "min_price": 4923
+    },
+    {
+        "product_name": "Паштет",
+        "average_price": 2503,
+        "max_price": 2503,
+        "min_price": 2503
+    },
+    {
+        "product_name": "Паштет",
+        "average_price": 5696,
+        "max_price": 5696,
+        "min_price": 5696
+    },
+    {
+        "product_name": "Паштет",
+        "average_price": 6170,
+        "max_price": 6170,
+        "min_price": 6170
+    },
+    {
+        "product_name": "Паштет",
+        "average_price": 248,
+        "max_price": 248,
+        "min_price": 248
+    },
+    {
+        "product_name": "Паштет",
+        "average_price": 7472,
+        "max_price": 7472,
+        "min_price": 7472
+    },
+    {
+        "product_name": "Паштет",
+        "average_price": 6447,
+        "max_price": 6447,
+        "min_price": 6447
+    },
+    {
+        "product_name": "Паштет",
+        "average_price": 7941,
+        "max_price": 7941,
+        "min_price": 7941
+    },
+    {
+        "product_name": "Паштет",
+        "average_price": 6925,
+        "max_price": 6925,
+        "min_price": 6925
+    },
+    {
+        "product_name": "Паштет",
+        "average_price": 5196,
+        "max_price": 5196,
+        "min_price": 5196
+    },
+    {
+        "product_name": "Кисель ягодный",
+        "average_price": 8824,
+        "max_price": 8824,
+        "min_price": 8824
+    },
+    {
+        "product_name": "Кисель ягодный",
+        "average_price": 630,
+        "max_price": 630,
+        "min_price": 630
+    },
+    {
+        "product_name": "Кисель ягодный",
+        "average_price": 2882,
+        "max_price": 2882,
+        "min_price": 2882
+    },
+    {
+        "product_name": "Кисель ягодный",
+        "average_price": 3529,
+        "max_price": 3529,
+        "min_price": 3529
+    },
+    {
+        "product_name": "Кисель ягодный",
+        "average_price": 4189,
+        "max_price": 4189,
+        "min_price": 4189
+    },
+    {
+        "product_name": "Кисель ягодный",
+        "average_price": 6867,
+        "max_price": 6867,
+        "min_price": 6867
+    },
+    {
+        "product_name": "Кисель ягодный",
+        "average_price": 269,
+        "max_price": 269,
+        "min_price": 269
+    },
+    {
+        "product_name": "Кисель ягодный",
+        "average_price": 7542,
+        "max_price": 7542,
+        "min_price": 7542
+    },
+    {
+        "product_name": "Кисель ягодный",
+        "average_price": 8761,
+        "max_price": 8761,
+        "min_price": 8761
+    },
+    {
+        "product_name": "Кисель ягодный",
+        "average_price": 4151,
+        "max_price": 4151,
+        "min_price": 4151
+    },
+    {
+        "product_name": "Кисель ягодный",
+        "average_price": 9078,
+        "max_price": 9078,
+        "min_price": 9078
+    },
+    {
+        "product_name": "Кисель ягодный",
+        "average_price": 2226,
+        "max_price": 2226,
+        "min_price": 2226
+    },
+    {
+        "product_name": "Кисель ягодный",
+        "average_price": 8007,
+        "max_price": 8007,
+        "min_price": 8007
+    },
+    {
+        "product_name": "Кисель ягодный",
+        "average_price": 4251,
+        "max_price": 4251,
+        "min_price": 4251
+    },
+    {
+        "product_name": "Кисель ягодный",
+        "average_price": 5723,
+        "max_price": 5723,
+        "min_price": 5723
+    },
+    {
+        "product_name": "Каша из дробленной кукурузной крупы",
+        "average_price": 1607,
+        "max_price": 1607,
+        "min_price": 1607
+    },
+    {
+        "product_name": "Каша из дробленной кукурузной крупы",
+        "average_price": 2881,
+        "max_price": 2881,
+        "min_price": 2881
+    },
+    {
+        "product_name": "Каша из дробленной кукурузной крупы",
+        "average_price": 7391,
+        "max_price": 7391,
+        "min_price": 7391
+    },
+    {
+        "product_name": "Каша из дробленной кукурузной крупы",
+        "average_price": 4023,
+        "max_price": 4023,
+        "min_price": 4023
+    },
+    {
+        "product_name": "Каша из дробленной кукурузной крупы",
+        "average_price": 1190,
+        "max_price": 1190,
+        "min_price": 1190
+    },
+    {
+        "product_name": "Каша из дробленной кукурузной крупы",
+        "average_price": 9734,
+        "max_price": 9734,
+        "min_price": 9734
+    },
+    {
+        "product_name": "Каша из дробленной кукурузной крупы",
+        "average_price": 8198,
+        "max_price": 8198,
+        "min_price": 8198
+    },
+    {
+        "product_name": "Каша из дробленной кукурузной крупы",
+        "average_price": 8602,
+        "max_price": 8602,
+        "min_price": 8602
+    },
+    {
+        "product_name": "Каша из дробленной кукурузной крупы",
+        "average_price": 4195,
+        "max_price": 4195,
+        "min_price": 4195
+    },
+    {
+        "product_name": "Каша из дробленной кукурузной крупы",
+        "average_price": 1561,
+        "max_price": 1561,
+        "min_price": 1561
+    },
+    {
+        "product_name": "Каша из дробленной кукурузной крупы",
+        "average_price": 4296,
+        "max_price": 4296,
+        "min_price": 4296
+    },
+    {
+        "product_name": "Каша из дробленной кукурузной крупы",
+        "average_price": 6445,
+        "max_price": 6445,
+        "min_price": 6445
+    },
+    {
+        "product_name": "Смородина",
+        "average_price": 7625,
+        "max_price": 7625,
+        "min_price": 7625
+    },
+    {
+        "product_name": "Смородина",
+        "average_price": 6759,
+        "max_price": 6759,
+        "min_price": 6759
+    },
+    {
+        "product_name": "Смородина",
+        "average_price": 8876,
+        "max_price": 8876,
+        "min_price": 8876
+    },
+    {
+        "product_name": "Смородина",
+        "average_price": 3289,
+        "max_price": 3289,
+        "min_price": 3289
+    },
+    {
+        "product_name": "Смородина",
+        "average_price": 6260,
+        "max_price": 6260,
+        "min_price": 6260
+    },
+    {
+        "product_name": "Смородина",
+        "average_price": 9930,
+        "max_price": 9930,
+        "min_price": 9930
+    },
+    {
+        "product_name": "Смородина",
+        "average_price": 5077,
+        "max_price": 5077,
+        "min_price": 5077
+    },
+    {
+        "product_name": "Смородина",
+        "average_price": 6207,
+        "max_price": 6207,
+        "min_price": 6207
+    },
+    {
+        "product_name": "Смородина",
+        "average_price": 5483,
+        "max_price": 5483,
+        "min_price": 5483
+    },
+    {
+        "product_name": "Смородина",
+        "average_price": 404,
+        "max_price": 404,
+        "min_price": 404
+    },
+    {
+        "product_name": "Кофеварка",
+        "average_price": 2135,
+        "max_price": 2135,
+        "min_price": 2135
+    },
+    {
+        "product_name": "Кофеварка",
+        "average_price": 2528,
+        "max_price": 2528,
+        "min_price": 2528
+    },
+    {
+        "product_name": "Кофеварка",
+        "average_price": 2951,
+        "max_price": 2951,
+        "min_price": 2951
+    },
+    {
+        "product_name": "Кофеварка",
+        "average_price": 1412,
+        "max_price": 1412,
+        "min_price": 1412
+    },
+    {
+        "product_name": "Кофеварка",
+        "average_price": 5380,
+        "max_price": 5380,
+        "min_price": 5380
+    },
+    {
+        "product_name": "Кофеварка",
+        "average_price": 4771,
+        "max_price": 4771,
+        "min_price": 4771
+    },
+    {
+        "product_name": "Кофеварка",
+        "average_price": 4708,
+        "max_price": 4708,
+        "min_price": 4708
+    },
+    {
+        "product_name": "Кофеварка",
+        "average_price": 3945,
+        "max_price": 3945,
+        "min_price": 3945
+    },
+    {
+        "product_name": "Кофеварка",
+        "average_price": 3063,
+        "max_price": 3063,
+        "min_price": 3063
+    },
+    {
+        "product_name": "Кофеварка",
+        "average_price": 2581,
+        "max_price": 2581,
+        "min_price": 2581
+    },
+    {
+        "product_name": "Кофеварка",
+        "average_price": 1825,
+        "max_price": 1825,
+        "min_price": 1825
+    },
+    {
+        "product_name": "Персик",
+        "average_price": 4593,
+        "max_price": 4593,
+        "min_price": 4593
+    },
+    {
+        "product_name": "Персик",
+        "average_price": 1989,
+        "max_price": 1989,
+        "min_price": 1989
+    },
+    {
+        "product_name": "Персик",
+        "average_price": 8134,
+        "max_price": 8134,
+        "min_price": 8134
+    },
+    {
+        "product_name": "Персик",
+        "average_price": 1253,
+        "max_price": 1253,
+        "min_price": 1253
+    },
+    {
+        "product_name": "Персик",
+        "average_price": 274,
+        "max_price": 274,
+        "min_price": 274
+    },
+    {
+        "product_name": "Персик",
+        "average_price": 8546,
+        "max_price": 8546,
+        "min_price": 8546
+    },
+    {
+        "product_name": "Персик",
+        "average_price": 3131,
+        "max_price": 3131,
+        "min_price": 3131
+    },
+    {
+        "product_name": "Персик",
+        "average_price": 5752,
+        "max_price": 5752,
+        "min_price": 5752
+    },
+    {
+        "product_name": "Персик",
+        "average_price": 9995,
+        "max_price": 9995,
+        "min_price": 9995
+    },
+    {
+        "product_name": "Персик",
+        "average_price": 767,
+        "max_price": 767,
+        "min_price": 767
+    },
+    {
+        "product_name": "Персик",
+        "average_price": 7460,
+        "max_price": 7460,
+        "min_price": 7460
+    },
+    {
+        "product_name": "Персик",
+        "average_price": 2415,
+        "max_price": 2415,
+        "min_price": 2415
+    },
+    {
+        "product_name": "Буррито с мясом",
+        "average_price": 7567,
+        "max_price": 7567,
+        "min_price": 7567
+    },
+    {
+        "product_name": "Буррито с мясом",
+        "average_price": 1498,
+        "max_price": 1498,
+        "min_price": 1498
+    },
+    {
+        "product_name": "Буррито с мясом",
+        "average_price": 9311,
+        "max_price": 9311,
+        "min_price": 9311
+    },
+    {
+        "product_name": "Буррито с мясом",
+        "average_price": 2868,
+        "max_price": 2868,
+        "min_price": 2868
+    },
+    {
+        "product_name": "Буррито с мясом",
+        "average_price": 4073,
+        "max_price": 4073,
+        "min_price": 4073
+    },
+    {
+        "product_name": "Буррито с мясом",
+        "average_price": 233,
+        "max_price": 233,
+        "min_price": 233
+    },
+    {
+        "product_name": "Буррито с мясом",
+        "average_price": 3667,
+        "max_price": 3667,
+        "min_price": 3667
+    },
+    {
+        "product_name": "Буррито с мясом",
+        "average_price": 8498,
+        "max_price": 8498,
+        "min_price": 8498
+    },
+    {
+        "product_name": "Буррито с мясом",
+        "average_price": 6629,
+        "max_price": 6629,
+        "min_price": 6629
+    },
+    {
+        "product_name": "Буррито с мясом",
+        "average_price": 3353,
+        "max_price": 3353,
+        "min_price": 3353
+    },
+    {
+        "product_name": "Буррито с мясом",
+        "average_price": 9063,
+        "max_price": 9063,
+        "min_price": 9063
+    },
+    {
+        "product_name": "Буррито с мясом",
+        "average_price": 8077,
+        "max_price": 8077,
+        "min_price": 8077
+    },
+    {
+        "product_name": "Буррито с мясом",
+        "average_price": 266,
+        "max_price": 266,
+        "min_price": 266
+    },
+    {
+        "product_name": "Буррито с мясом",
+        "average_price": 8743,
+        "max_price": 8743,
+        "min_price": 8743
+    },
+    {
+        "product_name": "Буррито с мясом",
+        "average_price": 5028,
+        "max_price": 5028,
+        "min_price": 5028
+    },
+    {
+        "product_name": "Буррито с мясом",
+        "average_price": 4516,
+        "max_price": 4516,
+        "min_price": 4516
+    },
+    {
+        "product_name": "Растительное масло кунжутное",
+        "average_price": 3053,
+        "max_price": 3053,
+        "min_price": 3053
+    },
+    {
+        "product_name": "Растительное масло кунжутное",
+        "average_price": 8118,
+        "max_price": 8118,
+        "min_price": 8118
+    },
+    {
+        "product_name": "Растительное масло кунжутное",
+        "average_price": 2662,
+        "max_price": 2662,
+        "min_price": 2662
+    },
+    {
+        "product_name": "Растительное масло кунжутное",
+        "average_price": 686,
+        "max_price": 686,
+        "min_price": 686
+    },
+    {
+        "product_name": "Растительное масло кунжутное",
+        "average_price": 6315,
+        "max_price": 6315,
+        "min_price": 6315
+    },
+    {
+        "product_name": "Растительное масло кунжутное",
+        "average_price": 640,
+        "max_price": 640,
+        "min_price": 640
+    },
+    {
+        "product_name": "Растительное масло кунжутное",
+        "average_price": 5066,
+        "max_price": 5066,
+        "min_price": 5066
+    },
+    {
+        "product_name": "Растительное масло кунжутное",
+        "average_price": 2288,
+        "max_price": 2288,
+        "min_price": 2288
+    },
+    {
+        "product_name": "Растительное масло кунжутное",
+        "average_price": 4028,
+        "max_price": 4028,
+        "min_price": 4028
+    },
+    {
+        "product_name": "Растительное масло кунжутное",
+        "average_price": 694,
+        "max_price": 694,
+        "min_price": 694
+    },
+    {
+        "product_name": "Растительное масло кунжутное",
+        "average_price": 3413,
+        "max_price": 3413,
+        "min_price": 3413
+    },
+    {
+        "product_name": "Растительное масло кунжутное",
+        "average_price": 9373,
+        "max_price": 9373,
+        "min_price": 9373
+    },
+    {
+        "product_name": "Растительное масло кунжутное",
+        "average_price": 281,
+        "max_price": 281,
+        "min_price": 281
+    },
+    {
+        "product_name": "Жемчужина Байкала",
+        "average_price": 9183,
+        "max_price": 9183,
+        "min_price": 9183
+    },
+    {
+        "product_name": "Жемчужина Байкала",
+        "average_price": 146,
+        "max_price": 146,
+        "min_price": 146
+    },
+    {
+        "product_name": "Жемчужина Байкала",
+        "average_price": 565,
+        "max_price": 565,
+        "min_price": 565
+    },
+    {
+        "product_name": "Жемчужина Байкала",
+        "average_price": 7111,
+        "max_price": 7111,
+        "min_price": 7111
+    },
+    {
+        "product_name": "Жемчужина Байкала",
+        "average_price": 1089,
+        "max_price": 1089,
+        "min_price": 1089
+    },
+    {
+        "product_name": "Жемчужина Байкала",
+        "average_price": 2148,
+        "max_price": 2148,
+        "min_price": 2148
+    },
+    {
+        "product_name": "Жемчужина Байкала",
+        "average_price": 5248,
+        "max_price": 5248,
+        "min_price": 5248
+    },
+    {
+        "product_name": "Матрасы",
+        "average_price": 6672,
+        "max_price": 6672,
+        "min_price": 6672
+    },
+    {
+        "product_name": "Матрасы",
+        "average_price": 4891,
+        "max_price": 4891,
+        "min_price": 4891
+    },
+    {
+        "product_name": "Матрасы",
+        "average_price": 7446,
+        "max_price": 7446,
+        "min_price": 7446
+    },
+    {
+        "product_name": "Матрасы",
+        "average_price": 6802,
+        "max_price": 6802,
+        "min_price": 6802
+    },
+    {
+        "product_name": "Матрасы",
+        "average_price": 2899,
+        "max_price": 2899,
+        "min_price": 2899
+    },
+    {
+        "product_name": "Матрасы",
+        "average_price": 4166,
+        "max_price": 4166,
+        "min_price": 4166
+    },
+    {
+        "product_name": "Матрасы",
+        "average_price": 3516,
+        "max_price": 3516,
+        "min_price": 3516
+    },
+    {
+        "product_name": "Матрасы",
+        "average_price": 1298,
+        "max_price": 1298,
+        "min_price": 1298
+    },
+    {
+        "product_name": "Матрасы",
+        "average_price": 864,
+        "max_price": 864,
+        "min_price": 864
+    },
+    {
+        "product_name": "Матрасы",
+        "average_price": 5677,
+        "max_price": 5677,
+        "min_price": 5677
+    },
+    {
+        "product_name": "Матрасы",
+        "average_price": 7644,
+        "max_price": 7644,
+        "min_price": 7644
+    },
+    {
+        "product_name": "Матрасы",
+        "average_price": 4086,
+        "max_price": 4086,
+        "min_price": 4086
+    },
+    {
+        "product_name": "Матрасы",
+        "average_price": 1992,
+        "max_price": 1992,
+        "min_price": 1992
+    },
+    {
+        "product_name": "Матрасы",
+        "average_price": 5128,
+        "max_price": 5128,
+        "min_price": 5128
+    },
+    {
+        "product_name": "Матрасы",
+        "average_price": 6313,
+        "max_price": 6313,
+        "min_price": 6313
+    },
+    {
+        "product_name": "Матрасы",
+        "average_price": 5663,
+        "max_price": 5663,
+        "min_price": 5663
+    },
+    {
+        "product_name": "Матрасы",
+        "average_price": 8162,
+        "max_price": 8162,
+        "min_price": 8162
+    },
+    {
+        "product_name": "Моцарелла",
+        "average_price": 3163,
+        "max_price": 3163,
+        "min_price": 3163
+    },
+    {
+        "product_name": "Моцарелла",
+        "average_price": 3183,
+        "max_price": 3183,
+        "min_price": 3183
+    },
+    {
+        "product_name": "Моцарелла",
+        "average_price": 1063,
+        "max_price": 1063,
+        "min_price": 1063
+    },
+    {
+        "product_name": "Моцарелла",
+        "average_price": 4423,
+        "max_price": 4423,
+        "min_price": 4423
+    },
+    {
+        "product_name": "Моцарелла",
+        "average_price": 1965,
+        "max_price": 1965,
+        "min_price": 1965
+    },
+    {
+        "product_name": "Моцарелла",
+        "average_price": 7480,
+        "max_price": 7480,
+        "min_price": 7480
+    },
+    {
+        "product_name": "Моцарелла",
+        "average_price": 1380,
+        "max_price": 1380,
+        "min_price": 1380
+    },
+    {
+        "product_name": "Моцарелла",
+        "average_price": 1357,
+        "max_price": 1357,
+        "min_price": 1357
+    },
+    {
+        "product_name": "Моцарелла",
+        "average_price": 4583,
+        "max_price": 4583,
+        "min_price": 4583
+    },
+    {
+        "product_name": "Моцарелла",
+        "average_price": 4569,
+        "max_price": 4569,
+        "min_price": 4569
+    },
+    {
+        "product_name": "Моцарелла",
+        "average_price": 1014,
+        "max_price": 1014,
+        "min_price": 1014
+    },
+    {
+        "product_name": "Моцарелла",
+        "average_price": 249,
+        "max_price": 249,
+        "min_price": 249
+    },
+    {
+        "product_name": "Моцарелла",
+        "average_price": 6317,
+        "max_price": 6317,
+        "min_price": 6317
+    },
+    {
+        "product_name": "Моцарелла",
+        "average_price": 4547,
+        "max_price": 4547,
+        "min_price": 4547
+    },
+    {
+        "product_name": "Оленина",
+        "average_price": 4932,
+        "max_price": 4932,
+        "min_price": 4932
+    },
+    {
+        "product_name": "Оленина",
+        "average_price": 4489,
+        "max_price": 4489,
+        "min_price": 4489
+    },
+    {
+        "product_name": "Оленина",
+        "average_price": 793,
+        "max_price": 793,
+        "min_price": 793
+    },
+    {
+        "product_name": "Оленина",
+        "average_price": 1374,
+        "max_price": 1374,
+        "min_price": 1374
+    },
+    {
+        "product_name": "Оленина",
+        "average_price": 3759,
+        "max_price": 3759,
+        "min_price": 3759
+    },
+    {
+        "product_name": "Оленина",
+        "average_price": 8455,
+        "max_price": 8455,
+        "min_price": 8455
+    },
+    {
+        "product_name": "Оленина",
+        "average_price": 897,
+        "max_price": 897,
+        "min_price": 897
+    },
+    {
+        "product_name": "Полотенца для рук",
+        "average_price": 8943,
+        "max_price": 8943,
+        "min_price": 8943
+    },
+    {
+        "product_name": "Полотенца для рук",
+        "average_price": 2083,
+        "max_price": 2083,
+        "min_price": 2083
+    },
+    {
+        "product_name": "Полотенца для рук",
+        "average_price": 3795,
+        "max_price": 3795,
+        "min_price": 3795
+    },
+    {
+        "product_name": "Полотенца для рук",
+        "average_price": 3755,
+        "max_price": 3755,
+        "min_price": 3755
+    },
+    {
+        "product_name": "Полотенца для рук",
+        "average_price": 6682,
+        "max_price": 6682,
+        "min_price": 6682
+    },
+    {
+        "product_name": "Полотенца для рук",
+        "average_price": 3158,
+        "max_price": 3158,
+        "min_price": 3158
+    },
+    {
+        "product_name": "Полотенца для рук",
+        "average_price": 3719,
+        "max_price": 3719,
+        "min_price": 3719
+    },
+    {
+        "product_name": "Полотенца для рук",
+        "average_price": 6569,
+        "max_price": 6569,
+        "min_price": 6569
+    },
+    {
+        "product_name": "Полотенца для рук",
+        "average_price": 2918,
+        "max_price": 2918,
+        "min_price": 2918
+    },
+    {
+        "product_name": "Полотенца для рук",
+        "average_price": 3087,
+        "max_price": 3087,
+        "min_price": 3087
+    },
+    {
+        "product_name": "Верблюжье молоко",
+        "average_price": 7724,
+        "max_price": 7724,
+        "min_price": 7724
+    },
+    {
+        "product_name": "Верблюжье молоко",
+        "average_price": 4849,
+        "max_price": 4849,
+        "min_price": 4849
+    },
+    {
+        "product_name": "Верблюжье молоко",
+        "average_price": 1459,
+        "max_price": 1459,
+        "min_price": 1459
+    },
+    {
+        "product_name": "Верблюжье молоко",
+        "average_price": 1800,
+        "max_price": 1800,
+        "min_price": 1800
+    },
+    {
+        "product_name": "Верблюжье молоко",
+        "average_price": 1859,
+        "max_price": 1859,
+        "min_price": 1859
+    },
+    {
+        "product_name": "Верблюжье молоко",
+        "average_price": 704,
+        "max_price": 704,
+        "min_price": 704
+    },
+    {
+        "product_name": "Верблюжье молоко",
+        "average_price": 3554,
+        "max_price": 3554,
+        "min_price": 3554
+    },
+    {
+        "product_name": "Верблюжье молоко",
+        "average_price": 5282,
+        "max_price": 5282,
+        "min_price": 5282
+    },
+    {
+        "product_name": "Верблюжье молоко",
+        "average_price": 9261,
+        "max_price": 9261,
+        "min_price": 9261
+    },
+    {
+        "product_name": "Верблюжье молоко",
+        "average_price": 1410,
+        "max_price": 1410,
+        "min_price": 1410
+    },
+    {
+        "product_name": "Верблюжье молоко",
+        "average_price": 7338,
+        "max_price": 7338,
+        "min_price": 7338
+    },
+    {
+        "product_name": "Верблюжье молоко",
+        "average_price": 9286,
+        "max_price": 9286,
+        "min_price": 9286
+    },
+    {
+        "product_name": "Пакеты для растений",
+        "average_price": 9329,
+        "max_price": 9329,
+        "min_price": 9329
+    },
+    {
+        "product_name": "Пакеты для растений",
+        "average_price": 9173,
+        "max_price": 9173,
+        "min_price": 9173
+    },
+    {
+        "product_name": "Пакеты для растений",
+        "average_price": 5011,
+        "max_price": 5011,
+        "min_price": 5011
+    },
+    {
+        "product_name": "Пакеты для растений",
+        "average_price": 9748,
+        "max_price": 9748,
+        "min_price": 9748
+    },
+    {
+        "product_name": "Пакеты для растений",
+        "average_price": 7294,
+        "max_price": 7294,
+        "min_price": 7294
+    },
+    {
+        "product_name": "Пакеты для растений",
+        "average_price": 5551,
+        "max_price": 5551,
+        "min_price": 5551
+    },
+    {
+        "product_name": "Пакеты для растений",
+        "average_price": 5990,
+        "max_price": 5990,
+        "min_price": 5990
+    },
+    {
+        "product_name": "Пакеты для растений",
+        "average_price": 3733,
+        "max_price": 3733,
+        "min_price": 3733
+    },
+    {
+        "product_name": "Сухофрукты (изюм, курага, чернослив)",
+        "average_price": 7931,
+        "max_price": 7931,
+        "min_price": 7931
+    },
+    {
+        "product_name": "Сухофрукты (изюм, курага, чернослив)",
+        "average_price": 8043,
+        "max_price": 8043,
+        "min_price": 8043
+    },
+    {
+        "product_name": "Сухофрукты (изюм, курага, чернослив)",
+        "average_price": 2102,
+        "max_price": 2102,
+        "min_price": 2102
+    },
+    {
+        "product_name": "Сухофрукты (изюм, курага, чернослив)",
+        "average_price": 3032,
+        "max_price": 3032,
+        "min_price": 3032
+    },
+    {
+        "product_name": "Сухофрукты (изюм, курага, чернослив)",
+        "average_price": 5129,
+        "max_price": 5129,
+        "min_price": 5129
+    },
+    {
+        "product_name": "Сухофрукты (изюм, курага, чернослив)",
+        "average_price": 9289,
+        "max_price": 9289,
+        "min_price": 9289
+    },
+    {
+        "product_name": "Сухофрукты (изюм, курага, чернослив)",
+        "average_price": 1319,
+        "max_price": 1319,
+        "min_price": 1319
+    },
+    {
+        "product_name": "Сухофрукты (изюм, курага, чернослив)",
+        "average_price": 5848,
+        "max_price": 5848,
+        "min_price": 5848
+    },
+    {
+        "product_name": "Сухофрукты (изюм, курага, чернослив)",
+        "average_price": 6152,
+        "max_price": 6152,
+        "min_price": 6152
+    },
+    {
+        "product_name": "Сухофрукты (изюм, курага, чернослив)",
+        "average_price": 3571,
+        "max_price": 3571,
+        "min_price": 3571
+    },
+    {
+        "product_name": "Сухофрукты (изюм, курага, чернослив)",
+        "average_price": 1245,
+        "max_price": 1245,
+        "min_price": 1245
+    },
+    {
+        "product_name": "Сухофрукты (изюм, курага, чернослив)",
+        "average_price": 6912,
+        "max_price": 6912,
+        "min_price": 6912
+    },
+    {
+        "product_name": "Сухофрукты (изюм, курага, чернослив)",
+        "average_price": 9256,
+        "max_price": 9256,
+        "min_price": 9256
+    },
+    {
+        "product_name": "Сухофрукты (изюм, курага, чернослив)",
+        "average_price": 7064,
+        "max_price": 7064,
+        "min_price": 7064
+    },
+    {
+        "product_name": "Сухофрукты (изюм, курага, чернослив)",
+        "average_price": 3711,
+        "max_price": 3711,
+        "min_price": 3711
+    },
+    {
+        "product_name": "Инжир",
+        "average_price": 1613,
+        "max_price": 1613,
+        "min_price": 1613
+    },
+    {
+        "product_name": "Инжир",
+        "average_price": 1590,
+        "max_price": 1590,
+        "min_price": 1590
+    },
+    {
+        "product_name": "Инжир",
+        "average_price": 238,
+        "max_price": 238,
+        "min_price": 238
+    },
+    {
+        "product_name": "Инжир",
+        "average_price": 5206,
+        "max_price": 5206,
+        "min_price": 5206
+    },
+    {
+        "product_name": "Инжир",
+        "average_price": 9804,
+        "max_price": 9804,
+        "min_price": 9804
+    },
+    {
+        "product_name": "Инжир",
+        "average_price": 9195,
+        "max_price": 9195,
+        "min_price": 9195
+    },
+    {
+        "product_name": "Инжир",
+        "average_price": 1803,
+        "max_price": 1803,
+        "min_price": 1803
+    },
+    {
+        "product_name": "Инжир",
+        "average_price": 6870,
+        "max_price": 6870,
+        "min_price": 6870
+    },
+    {
+        "product_name": "Инжир",
+        "average_price": 6522,
+        "max_price": 6522,
+        "min_price": 6522
+    },
+    {
+        "product_name": "Инжир",
+        "average_price": 8708,
+        "max_price": 8708,
+        "min_price": 8708
+    },
+    {
+        "product_name": "Вода",
+        "average_price": 240,
+        "max_price": 240,
+        "min_price": 240
+    },
+    {
+        "product_name": "Вода",
+        "average_price": 3390,
+        "max_price": 3390,
+        "min_price": 3390
+    },
+    {
+        "product_name": "Вода",
+        "average_price": 9724,
+        "max_price": 9724,
+        "min_price": 9724
+    },
+    {
+        "product_name": "Вода",
+        "average_price": 1094,
+        "max_price": 1094,
+        "min_price": 1094
+    },
+    {
+        "product_name": "Вода",
+        "average_price": 3217,
+        "max_price": 3217,
+        "min_price": 3217
+    },
+    {
+        "product_name": "Репа",
+        "average_price": 2324,
+        "max_price": 2324,
+        "min_price": 2324
+    },
+    {
+        "product_name": "Репа",
+        "average_price": 9762,
+        "max_price": 9762,
+        "min_price": 9762
+    },
+    {
+        "product_name": "Репа",
+        "average_price": 9101,
+        "max_price": 9101,
+        "min_price": 9101
+    },
+    {
+        "product_name": "Репа",
+        "average_price": 4700,
+        "max_price": 4700,
+        "min_price": 4700
+    },
+    {
+        "product_name": "Репа",
+        "average_price": 2579,
+        "max_price": 2579,
+        "min_price": 2579
+    },
+    {
+        "product_name": "Репа",
+        "average_price": 4579,
+        "max_price": 4579,
+        "min_price": 4579
+    },
+    {
+        "product_name": "Репа",
+        "average_price": 2081,
+        "max_price": 2081,
+        "min_price": 2081
+    },
+    {
+        "product_name": "Репа",
+        "average_price": 1004,
+        "max_price": 1004,
+        "min_price": 1004
+    },
+    {
+        "product_name": "Репа",
+        "average_price": 5861,
+        "max_price": 5861,
+        "min_price": 5861
+    },
+    {
+        "product_name": "Репа",
+        "average_price": 5911,
+        "max_price": 5911,
+        "min_price": 5911
+    },
+    {
+        "product_name": "Репа",
+        "average_price": 439,
+        "max_price": 439,
+        "min_price": 439
+    },
+    {
+        "product_name": "Репа",
+        "average_price": 1933,
+        "max_price": 1933,
+        "min_price": 1933
+    },
+    {
+        "product_name": "Репа",
+        "average_price": 8442,
+        "max_price": 8442,
+        "min_price": 8442
+    },
+    {
+        "product_name": "Репа",
+        "average_price": 3770,
+        "max_price": 3770,
+        "min_price": 3770
+    },
+    {
+        "product_name": "Репа",
+        "average_price": 2775,
+        "max_price": 2775,
+        "min_price": 2775
+    },
+    {
+        "product_name": "Репа",
+        "average_price": 6370,
+        "max_price": 6370,
+        "min_price": 6370
+    },
+    {
+        "product_name": "Репа",
+        "average_price": 5607,
+        "max_price": 5607,
+        "min_price": 5607
+    },
+    {
+        "product_name": "Репа",
+        "average_price": 143,
+        "max_price": 143,
+        "min_price": 143
+    },
+    {
+        "product_name": "Белый шоколад",
+        "average_price": 162,
+        "max_price": 162,
+        "min_price": 162
+    },
+    {
+        "product_name": "Белый шоколад",
+        "average_price": 8109,
+        "max_price": 8109,
+        "min_price": 8109
+    },
+    {
+        "product_name": "Белый шоколад",
+        "average_price": 7220,
+        "max_price": 7220,
+        "min_price": 7220
+    },
+    {
+        "product_name": "Белый шоколад",
+        "average_price": 1500,
+        "max_price": 1500,
+        "min_price": 1500
+    },
+    {
+        "product_name": "Белый шоколад",
+        "average_price": 7523,
+        "max_price": 7523,
+        "min_price": 7523
+    },
+    {
+        "product_name": "Белый шоколад",
+        "average_price": 5619,
+        "max_price": 5619,
+        "min_price": 5619
+    },
+    {
+        "product_name": "Лен семена",
+        "average_price": 2551,
+        "max_price": 2551,
+        "min_price": 2551
+    },
+    {
+        "product_name": "Лен семена",
+        "average_price": 4699,
+        "max_price": 4699,
+        "min_price": 4699
+    },
+    {
+        "product_name": "Лен семена",
+        "average_price": 6295,
+        "max_price": 6295,
+        "min_price": 6295
+    },
+    {
+        "product_name": "Лен семена",
+        "average_price": 4277,
+        "max_price": 4277,
+        "min_price": 4277
+    },
+    {
+        "product_name": "Лен семена",
+        "average_price": 9058,
+        "max_price": 9058,
+        "min_price": 9058
+    },
+    {
+        "product_name": "Ямс",
+        "average_price": 102,
+        "max_price": 102,
+        "min_price": 102
+    },
+    {
+        "product_name": "Ямс",
+        "average_price": 5837,
+        "max_price": 5837,
+        "min_price": 5837
+    },
+    {
+        "product_name": "Ямс",
+        "average_price": 8328,
+        "max_price": 8328,
+        "min_price": 8328
+    },
+    {
+        "product_name": "Ямс",
+        "average_price": 8622,
+        "max_price": 8622,
+        "min_price": 8622
+    },
+    {
+        "product_name": "Ямс",
+        "average_price": 5853,
+        "max_price": 5853,
+        "min_price": 5853
+    },
+    {
+        "product_name": "Ямс",
+        "average_price": 6763,
+        "max_price": 6763,
+        "min_price": 6763
+    },
+    {
+        "product_name": "Ямс",
+        "average_price": 6876,
+        "max_price": 6876,
+        "min_price": 6876
+    },
+    {
+        "product_name": "Ямс",
+        "average_price": 355,
+        "max_price": 355,
+        "min_price": 355
+    },
+    {
+        "product_name": "Ямс",
+        "average_price": 4852,
+        "max_price": 4852,
+        "min_price": 4852
+    },
+    {
+        "product_name": "Ямс",
+        "average_price": 6821,
+        "max_price": 6821,
+        "min_price": 6821
+    },
+    {
+        "product_name": "Ямс",
+        "average_price": 4202,
+        "max_price": 4202,
+        "min_price": 4202
+    },
+    {
+        "product_name": "Йогурт питьевой",
+        "average_price": 7997,
+        "max_price": 7997,
+        "min_price": 7997
+    },
+    {
+        "product_name": "Йогурт питьевой",
+        "average_price": 9679,
+        "max_price": 9679,
+        "min_price": 9679
+    },
+    {
+        "product_name": "Йогурт питьевой",
+        "average_price": 7720,
+        "max_price": 7720,
+        "min_price": 7720
+    },
+    {
+        "product_name": "Йогурт питьевой",
+        "average_price": 9207,
+        "max_price": 9207,
+        "min_price": 9207
+    },
+    {
+        "product_name": "Йогурт питьевой",
+        "average_price": 1354,
+        "max_price": 1354,
+        "min_price": 1354
+    },
+    {
+        "product_name": "Йогурт питьевой",
+        "average_price": 5997,
+        "max_price": 5997,
+        "min_price": 5997
+    },
+    {
+        "product_name": "Йогурт питьевой",
+        "average_price": 7061,
+        "max_price": 7061,
+        "min_price": 7061
+    },
+    {
+        "product_name": "Йогурт питьевой",
+        "average_price": 6489,
+        "max_price": 6489,
+        "min_price": 6489
+    },
+    {
+        "product_name": "Йогурт питьевой",
+        "average_price": 4444,
+        "max_price": 4444,
+        "min_price": 4444
+    },
+    {
+        "product_name": "Йогурт питьевой",
+        "average_price": 8668,
+        "max_price": 8668,
+        "min_price": 8668
+    },
+    {
+        "product_name": "Йогурт питьевой",
+        "average_price": 556,
+        "max_price": 556,
+        "min_price": 556
+    },
+    {
+        "product_name": "Йогурт питьевой",
+        "average_price": 8381,
+        "max_price": 8381,
+        "min_price": 8381
+    },
+    {
+        "product_name": "Йогурт питьевой",
+        "average_price": 3256,
+        "max_price": 3256,
+        "min_price": 3256
+    },
+    {
+        "product_name": "Йогурт питьевой",
+        "average_price": 5947,
+        "max_price": 5947,
+        "min_price": 5947
+    },
+    {
+        "product_name": "Йогурт питьевой",
+        "average_price": 1107,
+        "max_price": 1107,
+        "min_price": 1107
+    },
+    {
+        "product_name": "Йогурт питьевой",
+        "average_price": 8941,
+        "max_price": 8941,
+        "min_price": 8941
+    },
+    {
+        "product_name": "Баклажан",
+        "average_price": 7314,
+        "max_price": 7314,
+        "min_price": 7314
+    },
+    {
+        "product_name": "Баклажан",
+        "average_price": 3949,
+        "max_price": 3949,
+        "min_price": 3949
+    },
+    {
+        "product_name": "Баклажан",
+        "average_price": 2270,
+        "max_price": 2270,
+        "min_price": 2270
+    },
+    {
+        "product_name": "Баклажан",
+        "average_price": 1552,
+        "max_price": 1552,
+        "min_price": 1552
+    },
+    {
+        "product_name": "Баклажан",
+        "average_price": 8984,
+        "max_price": 8984,
+        "min_price": 8984
+    },
+    {
+        "product_name": "Баклажан",
+        "average_price": 8458,
+        "max_price": 8458,
+        "min_price": 8458
+    },
+    {
+        "product_name": "Баклажан",
+        "average_price": 7402,
+        "max_price": 7402,
+        "min_price": 7402
+    },
+    {
+        "product_name": "Баклажан",
+        "average_price": 6946,
+        "max_price": 6946,
+        "min_price": 6946
+    },
+    {
+        "product_name": "Баклажан",
+        "average_price": 1287,
+        "max_price": 1287,
+        "min_price": 1287
+    },
+    {
+        "product_name": "Баклажан",
+        "average_price": 175,
+        "max_price": 175,
+        "min_price": 175
+    },
+    {
+        "product_name": "Пакеты для выставки",
+        "average_price": 2678,
+        "max_price": 2678,
+        "min_price": 2678
+    },
+    {
+        "product_name": "Пакеты для выставки",
+        "average_price": 8380,
+        "max_price": 8380,
+        "min_price": 8380
+    },
+    {
+        "product_name": "Пакеты для выставки",
+        "average_price": 3928,
+        "max_price": 3928,
+        "min_price": 3928
+    },
+    {
+        "product_name": "Пакеты для выставки",
+        "average_price": 8522,
+        "max_price": 8522,
+        "min_price": 8522
+    },
+    {
+        "product_name": "Пакеты для выставки",
+        "average_price": 1493,
+        "max_price": 1493,
+        "min_price": 1493
+    },
+    {
+        "product_name": "Пакеты для выставки",
+        "average_price": 4614,
+        "max_price": 4614,
+        "min_price": 4614
+    },
+    {
+        "product_name": "Пакеты для выставки",
+        "average_price": 8467,
+        "max_price": 8467,
+        "min_price": 8467
+    },
+    {
+        "product_name": "Пакеты для концерта",
+        "average_price": 3680,
+        "max_price": 3680,
+        "min_price": 3680
+    },
+    {
+        "product_name": "Пакеты для концерта",
+        "average_price": 153,
+        "max_price": 153,
+        "min_price": 153
+    },
+    {
+        "product_name": "Пакеты для концерта",
+        "average_price": 2646,
+        "max_price": 2646,
+        "min_price": 2646
+    },
+    {
+        "product_name": "Пакеты для концерта",
+        "average_price": 4310,
+        "max_price": 4310,
+        "min_price": 4310
+    },
+    {
+        "product_name": "Пакеты для концерта",
+        "average_price": 5973,
+        "max_price": 5973,
+        "min_price": 5973
+    },
+    {
+        "product_name": "Пакеты для концерта",
+        "average_price": 4486,
+        "max_price": 4486,
+        "min_price": 4486
+    },
+    {
+        "product_name": "Пакеты для концерта",
+        "average_price": 1955,
+        "max_price": 1955,
+        "min_price": 1955
+    },
+    {
+        "product_name": "Пакеты для концерта",
+        "average_price": 3696,
+        "max_price": 3696,
+        "min_price": 3696
+    },
+    {
+        "product_name": "Пакеты для концерта",
+        "average_price": 760,
+        "max_price": 760,
+        "min_price": 760
+    },
+    {
+        "product_name": "Пакеты для концерта",
+        "average_price": 955,
+        "max_price": 955,
+        "min_price": 955
+    },
+    {
+        "product_name": "Пакеты для концерта",
+        "average_price": 4241,
+        "max_price": 4241,
+        "min_price": 4241
+    },
+    {
+        "product_name": "Пакеты для концерта",
+        "average_price": 7617,
+        "max_price": 7617,
+        "min_price": 7617
+    },
+    {
+        "product_name": "Пакеты для концерта",
+        "average_price": 8139,
+        "max_price": 8139,
+        "min_price": 8139
+    },
+    {
+        "product_name": "Пакеты для концерта",
+        "average_price": 4461,
+        "max_price": 4461,
+        "min_price": 4461
+    },
+    {
+        "product_name": "Пакеты для концерта",
+        "average_price": 5951,
+        "max_price": 5951,
+        "min_price": 5951
+    },
+    {
+        "product_name": "Пакеты для концерта",
+        "average_price": 3247,
+        "max_price": 3247,
+        "min_price": 3247
+    },
+    {
+        "product_name": "Пакеты для концерта",
+        "average_price": 4104,
+        "max_price": 4104,
+        "min_price": 4104
+    },
+    {
+        "product_name": "Пакеты для концерта",
+        "average_price": 3554,
+        "max_price": 3554,
+        "min_price": 3554
+    },
+    {
+        "product_name": "Груша",
+        "average_price": 4104,
+        "max_price": 4104,
+        "min_price": 4104
+    },
+    {
+        "product_name": "Груша",
+        "average_price": 1179,
+        "max_price": 1179,
+        "min_price": 1179
+    },
+    {
+        "product_name": "Груша",
+        "average_price": 7062,
+        "max_price": 7062,
+        "min_price": 7062
+    },
+    {
+        "product_name": "Груша",
+        "average_price": 6565,
+        "max_price": 6565,
+        "min_price": 6565
+    },
+    {
+        "product_name": "Груша",
+        "average_price": 1107,
+        "max_price": 1107,
+        "min_price": 1107
+    },
+    {
+        "product_name": "Груша",
+        "average_price": 661,
+        "max_price": 661,
+        "min_price": 661
+    },
+    {
+        "product_name": "Груша",
+        "average_price": 1983,
+        "max_price": 1983,
+        "min_price": 1983
+    },
+    {
+        "product_name": "Груша",
+        "average_price": 556,
+        "max_price": 556,
+        "min_price": 556
+    },
+    {
+        "product_name": "Груша",
+        "average_price": 1853,
+        "max_price": 1853,
+        "min_price": 1853
+    },
+    {
+        "product_name": "Груша",
+        "average_price": 6979,
+        "max_price": 6979,
+        "min_price": 6979
+    },
+    {
+        "product_name": "Морковь",
+        "average_price": 5293,
+        "max_price": 5293,
+        "min_price": 5293
+    },
+    {
+        "product_name": "Морковь",
+        "average_price": 2866,
+        "max_price": 2866,
+        "min_price": 2866
+    },
+    {
+        "product_name": "Морковь",
+        "average_price": 8281,
+        "max_price": 8281,
+        "min_price": 8281
+    },
+    {
+        "product_name": "Морковь",
+        "average_price": 8984,
+        "max_price": 8984,
+        "min_price": 8984
+    },
+    {
+        "product_name": "Морковь",
+        "average_price": 6690,
+        "max_price": 6690,
+        "min_price": 6690
+    },
+    {
+        "product_name": "Морковь",
+        "average_price": 556,
+        "max_price": 556,
+        "min_price": 556
+    },
+    {
+        "product_name": "Морковь",
+        "average_price": 1734,
+        "max_price": 1734,
+        "min_price": 1734
+    },
+    {
+        "product_name": "Морковь",
+        "average_price": 7192,
+        "max_price": 7192,
+        "min_price": 7192
+    },
+    {
+        "product_name": "Морковь",
+        "average_price": 4129,
+        "max_price": 4129,
+        "min_price": 4129
+    },
+    {
+        "product_name": "Морковь",
+        "average_price": 7354,
+        "max_price": 7354,
+        "min_price": 7354
+    },
+    {
+        "product_name": "Морковь",
+        "average_price": 7075,
+        "max_price": 7075,
+        "min_price": 7075
+    },
+    {
+        "product_name": "Морковь",
+        "average_price": 3791,
+        "max_price": 3791,
+        "min_price": 3791
+    },
+    {
+        "product_name": "Морковь",
+        "average_price": 2598,
+        "max_price": 2598,
+        "min_price": 2598
+    },
+    {
+        "product_name": "Морковь",
+        "average_price": 6143,
+        "max_price": 6143,
+        "min_price": 6143
+    },
+    {
+        "product_name": "Сухое молоко",
+        "average_price": 6154,
+        "max_price": 6154,
+        "min_price": 6154
+    },
+    {
+        "product_name": "Сухое молоко",
+        "average_price": 1233,
+        "max_price": 1233,
+        "min_price": 1233
+    },
+    {
+        "product_name": "Сухое молоко",
+        "average_price": 9762,
+        "max_price": 9762,
+        "min_price": 9762
+    },
+    {
+        "product_name": "Сухое молоко",
+        "average_price": 9806,
+        "max_price": 9806,
+        "min_price": 9806
+    },
+    {
+        "product_name": "Сухое молоко",
+        "average_price": 7464,
+        "max_price": 7464,
+        "min_price": 7464
+    },
+    {
+        "product_name": "Сухое молоко",
+        "average_price": 7002,
+        "max_price": 7002,
+        "min_price": 7002
+    },
+    {
+        "product_name": "Сухое молоко",
+        "average_price": 4725,
+        "max_price": 4725,
+        "min_price": 4725
+    },
+    {
+        "product_name": "Сухое молоко",
+        "average_price": 4453,
+        "max_price": 4453,
+        "min_price": 4453
+    },
+    {
+        "product_name": "Сухое молоко",
+        "average_price": 8431,
+        "max_price": 8431,
+        "min_price": 8431
+    },
+    {
+        "product_name": "Сухое молоко",
+        "average_price": 9013,
+        "max_price": 9013,
+        "min_price": 9013
+    },
+    {
+        "product_name": "Сухое молоко",
+        "average_price": 7584,
+        "max_price": 7584,
+        "min_price": 7584
+    },
+    {
+        "product_name": "Сухое молоко",
+        "average_price": 8129,
+        "max_price": 8129,
+        "min_price": 8129
+    },
+    {
+        "product_name": "Сухое молоко",
+        "average_price": 1230,
+        "max_price": 1230,
+        "min_price": 1230
+    },
+    {
+        "product_name": "Сухое молоко",
+        "average_price": 2848,
+        "max_price": 2848,
+        "min_price": 2848
+    },
+    {
+        "product_name": "Бекон",
+        "average_price": 1771,
+        "max_price": 1771,
+        "min_price": 1771
+    },
+    {
+        "product_name": "Бекон",
+        "average_price": 6951,
+        "max_price": 6951,
+        "min_price": 6951
+    },
+    {
+        "product_name": "Бекон",
+        "average_price": 2935,
+        "max_price": 2935,
+        "min_price": 2935
+    },
+    {
+        "product_name": "Бекон",
+        "average_price": 7968,
+        "max_price": 7968,
+        "min_price": 7968
+    },
+    {
+        "product_name": "Бекон",
+        "average_price": 2316,
+        "max_price": 2316,
+        "min_price": 2316
+    },
+    {
+        "product_name": "Бекон",
+        "average_price": 3412,
+        "max_price": 3412,
+        "min_price": 3412
+    },
+    {
+        "product_name": "Бекон",
+        "average_price": 1214,
+        "max_price": 1214,
+        "min_price": 1214
+    },
+    {
+        "product_name": "Бекон",
+        "average_price": 7295,
+        "max_price": 7295,
+        "min_price": 7295
+    },
+    {
+        "product_name": "Бекон",
+        "average_price": 7018,
+        "max_price": 7018,
+        "min_price": 7018
+    },
+    {
+        "product_name": "Бекон",
+        "average_price": 3438,
+        "max_price": 3438,
+        "min_price": 3438
+    },
+    {
+        "product_name": "Бекон",
+        "average_price": 9455,
+        "max_price": 9455,
+        "min_price": 9455
+    },
+    {
+        "product_name": "Клубника",
+        "average_price": 222,
+        "max_price": 222,
+        "min_price": 222
+    },
+    {
+        "product_name": "Клубника",
+        "average_price": 5482,
+        "max_price": 5482,
+        "min_price": 5482
+    },
+    {
+        "product_name": "Клубника",
+        "average_price": 7607,
+        "max_price": 7607,
+        "min_price": 7607
+    },
+    {
+        "product_name": "Клубника",
+        "average_price": 7813,
+        "max_price": 7813,
+        "min_price": 7813
+    },
+    {
+        "product_name": "Клубника",
+        "average_price": 2330,
+        "max_price": 2330,
+        "min_price": 2330
+    },
+    {
+        "product_name": "Клубника",
+        "average_price": 2067,
+        "max_price": 2067,
+        "min_price": 2067
+    },
+    {
+        "product_name": "Клубника",
+        "average_price": 6794,
+        "max_price": 6794,
+        "min_price": 6794
+    },
+    {
+        "product_name": "Клубника",
+        "average_price": 9137,
+        "max_price": 9137,
+        "min_price": 9137
+    },
+    {
+        "product_name": "Клубника",
+        "average_price": 7840,
+        "max_price": 7840,
+        "min_price": 7840
+    },
+    {
+        "product_name": "Клубника",
+        "average_price": 8361,
+        "max_price": 8361,
+        "min_price": 8361
+    },
+    {
+        "product_name": "Клубника",
+        "average_price": 1574,
+        "max_price": 1574,
+        "min_price": 1574
+    },
+    {
+        "product_name": "Клубника",
+        "average_price": 5382,
+        "max_price": 5382,
+        "min_price": 5382
+    },
+    {
+        "product_name": "Клубника",
+        "average_price": 2372,
+        "max_price": 2372,
+        "min_price": 2372
+    },
+    {
+        "product_name": "Клубника",
+        "average_price": 5202,
+        "max_price": 5202,
+        "min_price": 5202
+    },
+    {
+        "product_name": "Клубника",
+        "average_price": 9459,
+        "max_price": 9459,
+        "min_price": 9459
+    },
+    {
+        "product_name": "Клубника",
+        "average_price": 9517,
+        "max_price": 9517,
+        "min_price": 9517
+    },
+    {
+        "product_name": "Курт",
+        "average_price": 8914,
+        "max_price": 8914,
+        "min_price": 8914
+    },
+    {
+        "product_name": "Курт",
+        "average_price": 151,
+        "max_price": 151,
+        "min_price": 151
+    },
+    {
+        "product_name": "Курт",
+        "average_price": 751,
+        "max_price": 751,
+        "min_price": 751
+    },
+    {
+        "product_name": "Курт",
+        "average_price": 7956,
+        "max_price": 7956,
+        "min_price": 7956
+    },
+    {
+        "product_name": "Курт",
+        "average_price": 6119,
+        "max_price": 6119,
+        "min_price": 6119
+    },
+    {
+        "product_name": "Курт",
+        "average_price": 4177,
+        "max_price": 4177,
+        "min_price": 4177
+    },
+    {
+        "product_name": "Курт",
+        "average_price": 1524,
+        "max_price": 1524,
+        "min_price": 1524
+    },
+    {
+        "product_name": "Курт",
+        "average_price": 5823,
+        "max_price": 5823,
+        "min_price": 5823
+    },
+    {
+        "product_name": "Курт",
+        "average_price": 5014,
+        "max_price": 5014,
+        "min_price": 5014
+    },
+    {
+        "product_name": "Курт",
+        "average_price": 9577,
+        "max_price": 9577,
+        "min_price": 9577
+    },
+    {
+        "product_name": "Шпинат",
+        "average_price": 7551,
+        "max_price": 7551,
+        "min_price": 7551
+    },
+    {
+        "product_name": "Шпинат",
+        "average_price": 7544,
+        "max_price": 7544,
+        "min_price": 7544
+    },
+    {
+        "product_name": "Шпинат",
+        "average_price": 4346,
+        "max_price": 4346,
+        "min_price": 4346
+    },
+    {
+        "product_name": "Шпинат",
+        "average_price": 5158,
+        "max_price": 5158,
+        "min_price": 5158
+    },
+    {
+        "product_name": "Шпинат",
+        "average_price": 6591,
+        "max_price": 6591,
+        "min_price": 6591
+    },
+    {
+        "product_name": "Шпинат",
+        "average_price": 5969,
+        "max_price": 5969,
+        "min_price": 5969
+    },
+    {
+        "product_name": "Шпинат",
+        "average_price": 9659,
+        "max_price": 9659,
+        "min_price": 9659
+    },
+    {
+        "product_name": "Шпинат",
+        "average_price": 4113,
+        "max_price": 4113,
+        "min_price": 4113
+    },
+    {
+        "product_name": "Шпинат",
+        "average_price": 9875,
+        "max_price": 9875,
+        "min_price": 9875
+    },
+    {
+        "product_name": "Шпинат",
+        "average_price": 6006,
+        "max_price": 6006,
+        "min_price": 6006
+    },
+    {
+        "product_name": "Шпинат",
+        "average_price": 6302,
+        "max_price": 6302,
+        "min_price": 6302
+    },
+    {
+        "product_name": "Шпинат",
+        "average_price": 2342,
+        "max_price": 2342,
+        "min_price": 2342
+    },
+    {
+        "product_name": "Шпинат",
+        "average_price": 5419,
+        "max_price": 5419,
+        "min_price": 5419
+    },
+    {
+        "product_name": "Шпинат",
+        "average_price": 351,
+        "max_price": 351,
+        "min_price": 351
+    },
+    {
+        "product_name": "Шпинат",
+        "average_price": 3377,
+        "max_price": 3377,
+        "min_price": 3377
+    },
+    {
+        "product_name": "Шпинат",
+        "average_price": 9947,
+        "max_price": 9947,
+        "min_price": 9947
+    },
+    {
+        "product_name": "Шпинат",
+        "average_price": 8178,
+        "max_price": 8178,
+        "min_price": 8178
+    },
+    {
+        "product_name": "Шпинат",
+        "average_price": 7163,
+        "max_price": 7163,
+        "min_price": 7163
+    },
+    {
+        "product_name": "Шпинат",
+        "average_price": 247,
+        "max_price": 247,
+        "min_price": 247
+    },
+    {
+        "product_name": "Шпинат",
+        "average_price": 1956,
+        "max_price": 1956,
+        "min_price": 1956
+    },
+    {
+        "product_name": "Пакеты для инструментов",
+        "average_price": 1820,
+        "max_price": 1820,
+        "min_price": 1820
+    },
+    {
+        "product_name": "Пакеты для инструментов",
+        "average_price": 7166,
+        "max_price": 7166,
+        "min_price": 7166
+    },
+    {
+        "product_name": "Пакеты для инструментов",
+        "average_price": 809,
+        "max_price": 809,
+        "min_price": 809
+    },
+    {
+        "product_name": "Пакеты для инструментов",
+        "average_price": 8277,
+        "max_price": 8277,
+        "min_price": 8277
+    },
+    {
+        "product_name": "Пакеты для инструментов",
+        "average_price": 6411,
+        "max_price": 6411,
+        "min_price": 6411
+    },
+    {
+        "product_name": "Пакеты для инструментов",
+        "average_price": 1366,
+        "max_price": 1366,
+        "min_price": 1366
+    },
+    {
+        "product_name": "Пакеты для инструментов",
+        "average_price": 8225,
+        "max_price": 8225,
+        "min_price": 8225
+    },
+    {
+        "product_name": "Пакеты для инструментов",
+        "average_price": 8718,
+        "max_price": 8718,
+        "min_price": 8718
+    },
+    {
+        "product_name": "Пакеты для инструментов",
+        "average_price": 7491,
+        "max_price": 7491,
+        "min_price": 7491
+    },
+    {
+        "product_name": "Пакеты для инструментов",
+        "average_price": 4391,
+        "max_price": 4391,
+        "min_price": 4391
+    },
+    {
+        "product_name": "Пакеты для инструментов",
+        "average_price": 3044,
+        "max_price": 3044,
+        "min_price": 3044
+    },
+    {
+        "product_name": "Пакеты для инструментов",
+        "average_price": 5897,
+        "max_price": 5897,
+        "min_price": 5897
+    },
+    {
+        "product_name": "Пакеты для инструментов",
+        "average_price": 5952,
+        "max_price": 5952,
+        "min_price": 5952
+    },
+    {
+        "product_name": "Пакеты для инструментов",
+        "average_price": 3457,
+        "max_price": 3457,
+        "min_price": 3457
+    },
+    {
+        "product_name": "Пакеты для инструментов",
+        "average_price": 9418,
+        "max_price": 9418,
+        "min_price": 9418
+    },
+    {
+        "product_name": "Пакеты для инструментов",
+        "average_price": 496,
+        "max_price": 496,
+        "min_price": 496
+    },
+    {
+        "product_name": "Пакеты для инструментов",
+        "average_price": 3993,
+        "max_price": 3993,
+        "min_price": 3993
+    },
+    {
+        "product_name": "Пакеты для инструментов",
+        "average_price": 4257,
+        "max_price": 4257,
+        "min_price": 4257
+    },
+    {
+        "product_name": "Пакеты для инструментов",
+        "average_price": 4816,
+        "max_price": 4816,
+        "min_price": 4816
+    },
+    {
+        "product_name": "Пакеты для инструментов",
+        "average_price": 3292,
+        "max_price": 3292,
+        "min_price": 3292
+    },
+    {
+        "product_name": "Великолукская",
+        "average_price": 5997,
+        "max_price": 5997,
+        "min_price": 5997
+    },
+    {
+        "product_name": "Великолукская",
+        "average_price": 7220,
+        "max_price": 7220,
+        "min_price": 7220
+    },
+    {
+        "product_name": "Великолукская",
+        "average_price": 6979,
+        "max_price": 6979,
+        "min_price": 6979
+    },
+    {
+        "product_name": "Великолукская",
+        "average_price": 423,
+        "max_price": 423,
+        "min_price": 423
+    },
+    {
+        "product_name": "Великолукская",
+        "average_price": 6406,
+        "max_price": 6406,
+        "min_price": 6406
+    },
+    {
+        "product_name": "Великолукская",
+        "average_price": 7840,
+        "max_price": 7840,
+        "min_price": 7840
+    },
+    {
+        "product_name": "Великолукская",
+        "average_price": 3046,
+        "max_price": 3046,
+        "min_price": 3046
+    },
+    {
+        "product_name": "Великолукская",
+        "average_price": 9813,
+        "max_price": 9813,
+        "min_price": 9813
+    },
+    {
+        "product_name": "Великолукская",
+        "average_price": 4721,
+        "max_price": 4721,
+        "min_price": 4721
+    },
+    {
+        "product_name": "Великолукская",
+        "average_price": 3706,
+        "max_price": 3706,
+        "min_price": 3706
+    },
+    {
+        "product_name": "Великолукская",
+        "average_price": 2735,
+        "max_price": 2735,
+        "min_price": 2735
+    },
+    {
+        "product_name": "Великолукская",
+        "average_price": 3328,
+        "max_price": 3328,
+        "min_price": 3328
+    },
+    {
+        "product_name": "Великолукская",
+        "average_price": 9018,
+        "max_price": 9018,
+        "min_price": 9018
+    },
+    {
+        "product_name": "Великолукская",
+        "average_price": 3485,
+        "max_price": 3485,
+        "min_price": 3485
+    },
+    {
+        "product_name": "Великолукская",
+        "average_price": 1129,
+        "max_price": 1129,
+        "min_price": 1129
+    },
+    {
+        "product_name": "Великолукская",
+        "average_price": 6906,
+        "max_price": 6906,
+        "min_price": 6906
+    },
+    {
+        "product_name": "Великолукская",
+        "average_price": 2604,
+        "max_price": 2604,
+        "min_price": 2604
+    },
+    {
+        "product_name": "Великолукская",
+        "average_price": 8151,
+        "max_price": 8151,
+        "min_price": 8151
+    },
+    {
+        "product_name": "Сырокопченая колбаса",
+        "average_price": 1970,
+        "max_price": 1970,
+        "min_price": 1970
+    },
+    {
+        "product_name": "Сырокопченая колбаса",
+        "average_price": 6751,
+        "max_price": 6751,
+        "min_price": 6751
+    },
+    {
+        "product_name": "Сырокопченая колбаса",
+        "average_price": 5531,
+        "max_price": 5531,
+        "min_price": 5531
+    },
+    {
+        "product_name": "Сырокопченая колбаса",
+        "average_price": 9711,
+        "max_price": 9711,
+        "min_price": 9711
+    },
+    {
+        "product_name": "Сырокопченая колбаса",
+        "average_price": 4743,
+        "max_price": 4743,
+        "min_price": 4743
+    },
+    {
+        "product_name": "Сырокопченая колбаса",
+        "average_price": 4861,
+        "max_price": 4861,
+        "min_price": 4861
+    },
+    {
+        "product_name": "Сырокопченая колбаса",
+        "average_price": 7122,
+        "max_price": 7122,
+        "min_price": 7122
+    },
+    {
+        "product_name": "Сырокопченая колбаса",
+        "average_price": 8298,
+        "max_price": 8298,
+        "min_price": 8298
+    },
+    {
+        "product_name": "Сырокопченая колбаса",
+        "average_price": 6417,
+        "max_price": 6417,
+        "min_price": 6417
+    },
+    {
+        "product_name": "Сырокопченая колбаса",
+        "average_price": 1718,
+        "max_price": 1718,
+        "min_price": 1718
+    },
+    {
+        "product_name": "Сырокопченая колбаса",
+        "average_price": 8827,
+        "max_price": 8827,
+        "min_price": 8827
+    },
+    {
+        "product_name": "Сырокопченая колбаса",
+        "average_price": 6138,
+        "max_price": 6138,
+        "min_price": 6138
+    },
+    {
+        "product_name": "Сырокопченая колбаса",
+        "average_price": 4995,
+        "max_price": 4995,
+        "min_price": 4995
+    },
+    {
+        "product_name": "Сырокопченая колбаса",
+        "average_price": 9346,
+        "max_price": 9346,
+        "min_price": 9346
+    },
+    {
+        "product_name": "Сырокопченая колбаса",
+        "average_price": 2712,
+        "max_price": 2712,
+        "min_price": 2712
+    },
+    {
+        "product_name": "Сырокопченая колбаса",
+        "average_price": 6590,
+        "max_price": 6590,
+        "min_price": 6590
+    },
+    {
+        "product_name": "Сырокопченая колбаса",
+        "average_price": 5338,
+        "max_price": 5338,
+        "min_price": 5338
+    },
+    {
+        "product_name": "Сырокопченая колбаса",
+        "average_price": 2426,
+        "max_price": 2426,
+        "min_price": 2426
+    },
+    {
+        "product_name": "Чоризо",
+        "average_price": 8807,
+        "max_price": 8807,
+        "min_price": 8807
+    },
+    {
+        "product_name": "Чоризо",
+        "average_price": 2933,
+        "max_price": 2933,
+        "min_price": 2933
+    },
+    {
+        "product_name": "Чоризо",
+        "average_price": 4793,
+        "max_price": 4793,
+        "min_price": 4793
+    },
+    {
+        "product_name": "Чоризо",
+        "average_price": 7291,
+        "max_price": 7291,
+        "min_price": 7291
+    },
+    {
+        "product_name": "Чоризо",
+        "average_price": 7960,
+        "max_price": 7960,
+        "min_price": 7960
+    },
+    {
+        "product_name": "Наволочки",
+        "average_price": 7217,
+        "max_price": 7217,
+        "min_price": 7217
+    },
+    {
+        "product_name": "Наволочки",
+        "average_price": 194,
+        "max_price": 194,
+        "min_price": 194
+    },
+    {
+        "product_name": "Наволочки",
+        "average_price": 3493,
+        "max_price": 3493,
+        "min_price": 3493
+    },
+    {
+        "product_name": "Наволочки",
+        "average_price": 5485,
+        "max_price": 5485,
+        "min_price": 5485
+    },
+    {
+        "product_name": "Наволочки",
+        "average_price": 2128,
+        "max_price": 2128,
+        "min_price": 2128
+    },
+    {
+        "product_name": "Наволочки",
+        "average_price": 3491,
+        "max_price": 3491,
+        "min_price": 3491
+    },
+    {
+        "product_name": "Наволочки",
+        "average_price": 8851,
+        "max_price": 8851,
+        "min_price": 8851
+    },
+    {
+        "product_name": "Наволочки",
+        "average_price": 892,
+        "max_price": 892,
+        "min_price": 892
+    },
+    {
+        "product_name": "Наволочки",
+        "average_price": 4136,
+        "max_price": 4136,
+        "min_price": 4136
+    },
+    {
+        "product_name": "Наволочки",
+        "average_price": 3074,
+        "max_price": 3074,
+        "min_price": 3074
+    },
+    {
+        "product_name": "Наволочки",
+        "average_price": 2573,
+        "max_price": 2573,
+        "min_price": 2573
+    },
+    {
+        "product_name": "Наволочки",
+        "average_price": 3233,
+        "max_price": 3233,
+        "min_price": 3233
+    },
+    {
+        "product_name": "Наволочки",
+        "average_price": 8925,
+        "max_price": 8925,
+        "min_price": 8925
+    },
+    {
+        "product_name": "Копчености",
+        "average_price": 385,
+        "max_price": 385,
+        "min_price": 385
+    },
+    {
+        "product_name": "Копчености",
+        "average_price": 1448,
+        "max_price": 1448,
+        "min_price": 1448
+    },
+    {
+        "product_name": "Копчености",
+        "average_price": 9783,
+        "max_price": 9783,
+        "min_price": 9783
+    },
+    {
+        "product_name": "Копчености",
+        "average_price": 4687,
+        "max_price": 4687,
+        "min_price": 4687
+    },
+    {
+        "product_name": "Копчености",
+        "average_price": 9942,
+        "max_price": 9942,
+        "min_price": 9942
+    },
+    {
+        "product_name": "Копчености",
+        "average_price": 6770,
+        "max_price": 6770,
+        "min_price": 6770
+    },
+    {
+        "product_name": "Копчености",
+        "average_price": 6230,
+        "max_price": 6230,
+        "min_price": 6230
+    },
+    {
+        "product_name": "Копчености",
+        "average_price": 9619,
+        "max_price": 9619,
+        "min_price": 9619
+    },
+    {
+        "product_name": "Копчености",
+        "average_price": 1941,
+        "max_price": 1941,
+        "min_price": 1941
+    },
+    {
+        "product_name": "Копчености",
+        "average_price": 1113,
+        "max_price": 1113,
+        "min_price": 1113
+    },
+    {
+        "product_name": "Копчености",
+        "average_price": 5052,
+        "max_price": 5052,
+        "min_price": 5052
+    },
+    {
+        "product_name": "Копчености",
+        "average_price": 6355,
+        "max_price": 6355,
+        "min_price": 6355
+    },
+    {
+        "product_name": "Копчености",
+        "average_price": 3611,
+        "max_price": 3611,
+        "min_price": 3611
+    },
+    {
+        "product_name": "Копчености",
+        "average_price": 3115,
+        "max_price": 3115,
+        "min_price": 3115
+    },
+    {
+        "product_name": "Копчености",
+        "average_price": 343,
+        "max_price": 343,
+        "min_price": 343
+    },
+    {
+        "product_name": "Копчености",
+        "average_price": 9581,
+        "max_price": 9581,
+        "min_price": 9581
+    },
+    {
+        "product_name": "Морковь",
+        "average_price": 2723,
+        "max_price": 2723,
+        "min_price": 2723
+    },
+    {
+        "product_name": "Морковь",
+        "average_price": 8538,
+        "max_price": 8538,
+        "min_price": 8538
+    },
+    {
+        "product_name": "Морковь",
+        "average_price": 6118,
+        "max_price": 6118,
+        "min_price": 6118
+    },
+    {
+        "product_name": "Морковь",
+        "average_price": 1595,
+        "max_price": 1595,
+        "min_price": 1595
+    },
+    {
+        "product_name": "Морковь",
+        "average_price": 9664,
+        "max_price": 9664,
+        "min_price": 9664
+    },
+    {
+        "product_name": "Авокадо",
+        "average_price": 1488,
+        "max_price": 1488,
+        "min_price": 1488
+    },
+    {
+        "product_name": "Авокадо",
+        "average_price": 3600,
+        "max_price": 3600,
+        "min_price": 3600
+    },
+    {
+        "product_name": "Авокадо",
+        "average_price": 5919,
+        "max_price": 5919,
+        "min_price": 5919
+    },
+    {
+        "product_name": "Авокадо",
+        "average_price": 8836,
+        "max_price": 8836,
+        "min_price": 8836
+    },
+    {
+        "product_name": "Авокадо",
+        "average_price": 7390,
+        "max_price": 7390,
+        "min_price": 7390
+    },
+    {
+        "product_name": "Авокадо",
+        "average_price": 2789,
+        "max_price": 2789,
+        "min_price": 2789
+    },
+    {
+        "product_name": "Авокадо",
+        "average_price": 6401,
+        "max_price": 6401,
+        "min_price": 6401
+    },
+    {
+        "product_name": "Авокадо",
+        "average_price": 9948,
+        "max_price": 9948,
+        "min_price": 9948
+    },
+    {
+        "product_name": "Авокадо",
+        "average_price": 1853,
+        "max_price": 1853,
+        "min_price": 1853
+    },
+    {
+        "product_name": "Авокадо",
+        "average_price": 8351,
+        "max_price": 8351,
+        "min_price": 8351
+    },
+    {
+        "product_name": "Авокадо",
+        "average_price": 493,
+        "max_price": 493,
+        "min_price": 493
+    },
+    {
+        "product_name": "Авокадо",
+        "average_price": 8122,
+        "max_price": 8122,
+        "min_price": 8122
+    },
+    {
+        "product_name": "Авокадо",
+        "average_price": 1228,
+        "max_price": 1228,
+        "min_price": 1228
+    },
+    {
+        "product_name": "Лардон",
+        "average_price": 9937,
+        "max_price": 9937,
+        "min_price": 9937
+    },
+    {
+        "product_name": "Лардон",
+        "average_price": 7293,
+        "max_price": 7293,
+        "min_price": 7293
+    },
+    {
+        "product_name": "Лардон",
+        "average_price": 4854,
+        "max_price": 4854,
+        "min_price": 4854
+    },
+    {
+        "product_name": "Лардон",
+        "average_price": 1861,
+        "max_price": 1861,
+        "min_price": 1861
+    },
+    {
+        "product_name": "Лардон",
+        "average_price": 2627,
+        "max_price": 2627,
+        "min_price": 2627
+    },
+    {
+        "product_name": "Спаржа",
+        "average_price": 8072,
+        "max_price": 8072,
+        "min_price": 8072
+    },
+    {
+        "product_name": "Спаржа",
+        "average_price": 2148,
+        "max_price": 2148,
+        "min_price": 2148
+    },
+    {
+        "product_name": "Спаржа",
+        "average_price": 179,
+        "max_price": 179,
+        "min_price": 179
+    },
+    {
+        "product_name": "Спаржа",
+        "average_price": 4350,
+        "max_price": 4350,
+        "min_price": 4350
+    },
+    {
+        "product_name": "Спаржа",
+        "average_price": 2227,
+        "max_price": 2227,
+        "min_price": 2227
+    },
+    {
+        "product_name": "Спаржа",
+        "average_price": 8922,
+        "max_price": 8922,
+        "min_price": 8922
+    },
+    {
+        "product_name": "Манты",
+        "average_price": 1506,
+        "max_price": 1506,
+        "min_price": 1506
+    },
+    {
+        "product_name": "Манты",
+        "average_price": 4034,
+        "max_price": 4034,
+        "min_price": 4034
+    },
+    {
+        "product_name": "Манты",
+        "average_price": 373,
+        "max_price": 373,
+        "min_price": 373
+    },
+    {
+        "product_name": "Манты",
+        "average_price": 3156,
+        "max_price": 3156,
+        "min_price": 3156
+    },
+    {
+        "product_name": "Манты",
+        "average_price": 6648,
+        "max_price": 6648,
+        "min_price": 6648
+    },
+    {
+        "product_name": "Манты",
+        "average_price": 5858,
+        "max_price": 5858,
+        "min_price": 5858
+    },
+    {
+        "product_name": "Манты",
+        "average_price": 8608,
+        "max_price": 8608,
+        "min_price": 8608
+    },
+    {
+        "product_name": "Манты",
+        "average_price": 6157,
+        "max_price": 6157,
+        "min_price": 6157
+    },
+    {
+        "product_name": "Манты",
+        "average_price": 4726,
+        "max_price": 4726,
+        "min_price": 4726
+    },
+    {
+        "product_name": "Манты",
+        "average_price": 2598,
+        "max_price": 2598,
+        "min_price": 2598
+    },
+    {
+        "product_name": "Манты",
+        "average_price": 2098,
+        "max_price": 2098,
+        "min_price": 2098
+    },
+    {
+        "product_name": "Манты",
+        "average_price": 9712,
+        "max_price": 9712,
+        "min_price": 9712
+    },
+    {
+        "product_name": "Манты",
+        "average_price": 5828,
+        "max_price": 5828,
+        "min_price": 5828
+    },
+    {
+        "product_name": "Манты",
+        "average_price": 9883,
+        "max_price": 9883,
+        "min_price": 9883
+    },
+    {
+        "product_name": "Манты",
+        "average_price": 3406,
+        "max_price": 3406,
+        "min_price": 3406
+    },
+    {
+        "product_name": "Манты",
+        "average_price": 608,
+        "max_price": 608,
+        "min_price": 608
+    },
+    {
+        "product_name": "Манты",
+        "average_price": 5643,
+        "max_price": 5643,
+        "min_price": 5643
+    },
+    {
+        "product_name": "Манты",
+        "average_price": 4434,
+        "max_price": 4434,
+        "min_price": 4434
+    },
+    {
+        "product_name": "Манты",
+        "average_price": 5286,
+        "max_price": 5286,
+        "min_price": 5286
+    },
+    {
+        "product_name": "Клюква",
+        "average_price": 5910,
+        "max_price": 5910,
+        "min_price": 5910
+    },
+    {
+        "product_name": "Клюква",
+        "average_price": 5766,
+        "max_price": 5766,
+        "min_price": 5766
+    },
+    {
+        "product_name": "Клюква",
+        "average_price": 5591,
+        "max_price": 5591,
+        "min_price": 5591
+    },
+    {
+        "product_name": "Клюква",
+        "average_price": 6907,
+        "max_price": 6907,
+        "min_price": 6907
+    },
+    {
+        "product_name": "Клюква",
+        "average_price": 5505,
+        "max_price": 5505,
+        "min_price": 5505
+    },
+    {
+        "product_name": "Клюква",
+        "average_price": 274,
+        "max_price": 274,
+        "min_price": 274
+    },
+    {
+        "product_name": "Клюква",
+        "average_price": 9705,
+        "max_price": 9705,
+        "min_price": 9705
+    },
+    {
+        "product_name": "Клюква",
+        "average_price": 6387,
+        "max_price": 6387,
+        "min_price": 6387
+    },
+    {
+        "product_name": "Клюква",
+        "average_price": 7590,
+        "max_price": 7590,
+        "min_price": 7590
+    },
+    {
+        "product_name": "Клюква",
+        "average_price": 4656,
+        "max_price": 4656,
+        "min_price": 4656
+    },
+    {
+        "product_name": "Клюква",
+        "average_price": 5876,
+        "max_price": 5876,
+        "min_price": 5876
+    },
+    {
+        "product_name": "Клюква",
+        "average_price": 7246,
+        "max_price": 7246,
+        "min_price": 7246
+    },
+    {
+        "product_name": "Клюква",
+        "average_price": 9044,
+        "max_price": 9044,
+        "min_price": 9044
+    },
+    {
+        "product_name": "Клюква",
+        "average_price": 521,
+        "max_price": 521,
+        "min_price": 521
+    },
+    {
+        "product_name": "Клюква",
+        "average_price": 1988,
+        "max_price": 1988,
+        "min_price": 1988
+    },
+    {
+        "product_name": "Клюква",
+        "average_price": 3715,
+        "max_price": 3715,
+        "min_price": 3715
+    },
+    {
+        "product_name": "Клюква",
+        "average_price": 6363,
+        "max_price": 6363,
+        "min_price": 6363
+    },
+    {
+        "product_name": "Редис",
+        "average_price": 9406,
+        "max_price": 9406,
+        "min_price": 9406
+    },
+    {
+        "product_name": "Редис",
+        "average_price": 6227,
+        "max_price": 6227,
+        "min_price": 6227
+    },
+    {
+        "product_name": "Редис",
+        "average_price": 2287,
+        "max_price": 2287,
+        "min_price": 2287
+    },
+    {
+        "product_name": "Редис",
+        "average_price": 9927,
+        "max_price": 9927,
+        "min_price": 9927
+    },
+    {
+        "product_name": "Редис",
+        "average_price": 1630,
+        "max_price": 1630,
+        "min_price": 1630
+    },
+    {
+        "product_name": "Редис",
+        "average_price": 1610,
+        "max_price": 1610,
+        "min_price": 1610
+    },
+    {
+        "product_name": "Редис",
+        "average_price": 2591,
+        "max_price": 2591,
+        "min_price": 2591
+    },
+    {
+        "product_name": "Редис",
+        "average_price": 1716,
+        "max_price": 1716,
+        "min_price": 1716
+    },
+    {
+        "product_name": "Редис",
+        "average_price": 1732,
+        "max_price": 1732,
+        "min_price": 1732
+    },
+    {
+        "product_name": "Редис",
+        "average_price": 7853,
+        "max_price": 7853,
+        "min_price": 7853
+    },
+    {
+        "product_name": "Редис",
+        "average_price": 4219,
+        "max_price": 4219,
+        "min_price": 4219
+    },
+    {
+        "product_name": "Редис",
+        "average_price": 453,
+        "max_price": 453,
+        "min_price": 453
+    },
+    {
+        "product_name": "Редис",
+        "average_price": 3910,
+        "max_price": 3910,
+        "min_price": 3910
+    },
+    {
+        "product_name": "Редис",
+        "average_price": 8593,
+        "max_price": 8593,
+        "min_price": 8593
+    },
+    {
+        "product_name": "Редис",
+        "average_price": 6335,
+        "max_price": 6335,
+        "min_price": 6335
+    },
+    {
+        "product_name": "Редис",
+        "average_price": 7035,
+        "max_price": 7035,
+        "min_price": 7035
+    },
+    {
+        "product_name": "Редис",
+        "average_price": 753,
+        "max_price": 753,
+        "min_price": 753
+    },
+    {
+        "product_name": "Редис",
+        "average_price": 1727,
+        "max_price": 1727,
+        "min_price": 1727
+    },
+    {
+        "product_name": "Редис",
+        "average_price": 6300,
+        "max_price": 6300,
+        "min_price": 6300
+    },
+    {
+        "product_name": "Редис",
+        "average_price": 9953,
+        "max_price": 9953,
+        "min_price": 9953
+    },
+    {
+        "product_name": "Фенхель",
+        "average_price": 8933,
+        "max_price": 8933,
+        "min_price": 8933
+    },
+    {
+        "product_name": "Фенхель",
+        "average_price": 511,
+        "max_price": 511,
+        "min_price": 511
+    },
+    {
+        "product_name": "Фенхель",
+        "average_price": 9768,
+        "max_price": 9768,
+        "min_price": 9768
+    },
+    {
+        "product_name": "Фенхель",
+        "average_price": 6682,
+        "max_price": 6682,
+        "min_price": 6682
+    },
+    {
+        "product_name": "Фенхель",
+        "average_price": 251,
+        "max_price": 251,
+        "min_price": 251
+    },
+    {
+        "product_name": "Фенхель",
+        "average_price": 5226,
+        "max_price": 5226,
+        "min_price": 5226
+    },
+    {
+        "product_name": "Фенхель",
+        "average_price": 2224,
+        "max_price": 2224,
+        "min_price": 2224
+    },
+    {
+        "product_name": "Фенхель",
+        "average_price": 6944,
+        "max_price": 6944,
+        "min_price": 6944
+    },
+    {
+        "product_name": "Фенхель",
+        "average_price": 218,
+        "max_price": 218,
+        "min_price": 218
+    },
+    {
+        "product_name": "Фенхель",
+        "average_price": 5763,
+        "max_price": 5763,
+        "min_price": 5763
+    },
+    {
+        "product_name": "Брынза",
+        "average_price": 4584,
+        "max_price": 4584,
+        "min_price": 4584
+    },
+    {
+        "product_name": "Брынза",
+        "average_price": 3730,
+        "max_price": 3730,
+        "min_price": 3730
+    },
+    {
+        "product_name": "Брынза",
+        "average_price": 5518,
+        "max_price": 5518,
+        "min_price": 5518
+    },
+    {
+        "product_name": "Брынза",
+        "average_price": 1666,
+        "max_price": 1666,
+        "min_price": 1666
+    },
+    {
+        "product_name": "Брынза",
+        "average_price": 953,
+        "max_price": 953,
+        "min_price": 953
+    },
+    {
+        "product_name": "Брынза",
+        "average_price": 4023,
+        "max_price": 4023,
+        "min_price": 4023
+    },
+    {
+        "product_name": "Брынза",
+        "average_price": 905,
+        "max_price": 905,
+        "min_price": 905
+    },
+    {
+        "product_name": "Гатчинская",
+        "average_price": 1614,
+        "max_price": 1614,
+        "min_price": 1614
+    },
+    {
+        "product_name": "Гатчинская",
+        "average_price": 9665,
+        "max_price": 9665,
+        "min_price": 9665
+    },
+    {
+        "product_name": "Гатчинская",
+        "average_price": 5302,
+        "max_price": 5302,
+        "min_price": 5302
+    },
+    {
+        "product_name": "Гатчинская",
+        "average_price": 3828,
+        "max_price": 3828,
+        "min_price": 3828
+    },
+    {
+        "product_name": "Гатчинская",
+        "average_price": 7641,
+        "max_price": 7641,
+        "min_price": 7641
+    },
+    {
+        "product_name": "Гатчинская",
+        "average_price": 4124,
+        "max_price": 4124,
+        "min_price": 4124
+    },
+    {
+        "product_name": "Гатчинская",
+        "average_price": 6289,
+        "max_price": 6289,
+        "min_price": 6289
+    },
+    {
+        "product_name": "Гатчинская",
+        "average_price": 8285,
+        "max_price": 8285,
+        "min_price": 8285
+    },
+    {
+        "product_name": "Гатчинская",
+        "average_price": 9205,
+        "max_price": 9205,
+        "min_price": 9205
+    },
+    {
+        "product_name": "Гатчинская",
+        "average_price": 7568,
+        "max_price": 7568,
+        "min_price": 7568
+    },
+    {
+        "product_name": "Гатчинская",
+        "average_price": 406,
+        "max_price": 406,
+        "min_price": 406
+    },
+    {
+        "product_name": "Брынза",
+        "average_price": 9507,
+        "max_price": 9507,
+        "min_price": 9507
+    },
+    {
+        "product_name": "Брынза",
+        "average_price": 7565,
+        "max_price": 7565,
+        "min_price": 7565
+    },
+    {
+        "product_name": "Брынза",
+        "average_price": 5537,
+        "max_price": 5537,
+        "min_price": 5537
+    },
+    {
+        "product_name": "Брынза",
+        "average_price": 9824,
+        "max_price": 9824,
+        "min_price": 9824
+    },
+    {
+        "product_name": "Брынза",
+        "average_price": 4122,
+        "max_price": 4122,
+        "min_price": 4122
+    },
+    {
+        "product_name": "Брынза",
+        "average_price": 341,
+        "max_price": 341,
+        "min_price": 341
+    },
+    {
+        "product_name": "Брынза",
+        "average_price": 780,
+        "max_price": 780,
+        "min_price": 780
+    },
+    {
+        "product_name": "Брынза",
+        "average_price": 4728,
+        "max_price": 4728,
+        "min_price": 4728
+    },
+    {
+        "product_name": "Балык",
+        "average_price": 5663,
+        "max_price": 5663,
+        "min_price": 5663
+    },
+    {
+        "product_name": "Балык",
+        "average_price": 2162,
+        "max_price": 2162,
+        "min_price": 2162
+    },
+    {
+        "product_name": "Балык",
+        "average_price": 2035,
+        "max_price": 2035,
+        "min_price": 2035
+    },
+    {
+        "product_name": "Балык",
+        "average_price": 7802,
+        "max_price": 7802,
+        "min_price": 7802
+    },
+    {
+        "product_name": "Балык",
+        "average_price": 6710,
+        "max_price": 6710,
+        "min_price": 6710
+    },
+    {
+        "product_name": "Балык",
+        "average_price": 6684,
+        "max_price": 6684,
+        "min_price": 6684
+    },
+    {
+        "product_name": "Балык",
+        "average_price": 9036,
+        "max_price": 9036,
+        "min_price": 9036
+    },
+    {
+        "product_name": "Балык",
+        "average_price": 8942,
+        "max_price": 8942,
+        "min_price": 8942
+    },
+    {
+        "product_name": "Балык",
+        "average_price": 8805,
+        "max_price": 8805,
+        "min_price": 8805
+    },
+    {
+        "product_name": "Балык",
+        "average_price": 819,
+        "max_price": 819,
+        "min_price": 819
+    },
+    {
+        "product_name": "Балык",
+        "average_price": 8250,
+        "max_price": 8250,
+        "min_price": 8250
+    },
+    {
+        "product_name": "Балык",
+        "average_price": 9060,
+        "max_price": 9060,
+        "min_price": 9060
+    },
+    {
+        "product_name": "Балык",
+        "average_price": 8299,
+        "max_price": 8299,
+        "min_price": 8299
+    },
+    {
+        "product_name": "Балык",
+        "average_price": 4078,
+        "max_price": 4078,
+        "min_price": 4078
+    },
+    {
+        "product_name": "Балык",
+        "average_price": 8066,
+        "max_price": 8066,
+        "min_price": 8066
+    },
+    {
+        "product_name": "Балык",
+        "average_price": 6848,
+        "max_price": 6848,
+        "min_price": 6848
+    },
+    {
+        "product_name": "Балык",
+        "average_price": 8617,
+        "max_price": 8617,
+        "min_price": 8617
+    },
+    {
+        "product_name": "Балык",
+        "average_price": 4802,
+        "max_price": 4802,
+        "min_price": 4802
+    },
+    {
+        "product_name": "Балык",
+        "average_price": 9945,
+        "max_price": 9945,
+        "min_price": 9945
+    },
+    {
+        "product_name": "Балык",
+        "average_price": 5605,
+        "max_price": 5605,
+        "min_price": 5605
+    },
+    {
+        "product_name": "Печень",
+        "average_price": 3139,
+        "max_price": 3139,
+        "min_price": 3139
+    },
+    {
+        "product_name": "Печень",
+        "average_price": 6603,
+        "max_price": 6603,
+        "min_price": 6603
+    },
+    {
+        "product_name": "Печень",
+        "average_price": 7555,
+        "max_price": 7555,
+        "min_price": 7555
+    },
+    {
+        "product_name": "Печень",
+        "average_price": 8126,
+        "max_price": 8126,
+        "min_price": 8126
+    },
+    {
+        "product_name": "Печень",
+        "average_price": 6022,
+        "max_price": 6022,
+        "min_price": 6022
+    },
+    {
+        "product_name": "Печень",
+        "average_price": 7915,
+        "max_price": 7915,
+        "min_price": 7915
+    },
+    {
+        "product_name": "Печень",
+        "average_price": 200,
+        "max_price": 200,
+        "min_price": 200
+    },
+    {
+        "product_name": "Печень",
+        "average_price": 4626,
+        "max_price": 4626,
+        "min_price": 4626
+    },
+    {
+        "product_name": "Печень",
+        "average_price": 375,
+        "max_price": 375,
+        "min_price": 375
+    },
+    {
+        "product_name": "Печень",
+        "average_price": 6118,
+        "max_price": 6118,
+        "min_price": 6118
+    },
+    {
+        "product_name": "Печень",
+        "average_price": 6980,
+        "max_price": 6980,
+        "min_price": 6980
+    },
+    {
+        "product_name": "Печень",
+        "average_price": 7539,
+        "max_price": 7539,
+        "min_price": 7539
+    },
+    {
+        "product_name": "Печень",
+        "average_price": 9972,
+        "max_price": 9972,
+        "min_price": 9972
+    },
+    {
+        "product_name": "Печень",
+        "average_price": 3926,
+        "max_price": 3926,
+        "min_price": 3926
+    },
+    {
+        "product_name": "Печень",
+        "average_price": 1049,
+        "max_price": 1049,
+        "min_price": 1049
+    },
+    {
+        "product_name": "Турнепс",
+        "average_price": 7878,
+        "max_price": 7878,
+        "min_price": 7878
+    },
+    {
+        "product_name": "Турнепс",
+        "average_price": 265,
+        "max_price": 265,
+        "min_price": 265
+    },
+    {
+        "product_name": "Турнепс",
+        "average_price": 5819,
+        "max_price": 5819,
+        "min_price": 5819
+    },
+    {
+        "product_name": "Турнепс",
+        "average_price": 6348,
+        "max_price": 6348,
+        "min_price": 6348
+    },
+    {
+        "product_name": "Турнепс",
+        "average_price": 7780,
+        "max_price": 7780,
+        "min_price": 7780
+    },
+    {
+        "product_name": "Просо",
+        "average_price": 2494,
+        "max_price": 2494,
+        "min_price": 2494
+    },
+    {
+        "product_name": "Просо",
+        "average_price": 8511,
+        "max_price": 8511,
+        "min_price": 8511
+    },
+    {
+        "product_name": "Просо",
+        "average_price": 6494,
+        "max_price": 6494,
+        "min_price": 6494
+    },
+    {
+        "product_name": "Просо",
+        "average_price": 5420,
+        "max_price": 5420,
+        "min_price": 5420
+    },
+    {
+        "product_name": "Просо",
+        "average_price": 1205,
+        "max_price": 1205,
+        "min_price": 1205
+    },
+    {
+        "product_name": "Просо",
+        "average_price": 6766,
+        "max_price": 6766,
+        "min_price": 6766
+    },
+    {
+        "product_name": "Просо",
+        "average_price": 4050,
+        "max_price": 4050,
+        "min_price": 4050
+    },
+    {
+        "product_name": "Просо",
+        "average_price": 4032,
+        "max_price": 4032,
+        "min_price": 4032
+    },
+    {
+        "product_name": "Просо",
+        "average_price": 918,
+        "max_price": 918,
+        "min_price": 918
+    },
+    {
+        "product_name": "Просо",
+        "average_price": 3581,
+        "max_price": 3581,
+        "min_price": 3581
+    },
+    {
+        "product_name": "Просо",
+        "average_price": 4713,
+        "max_price": 4713,
+        "min_price": 4713
+    },
+    {
+        "product_name": "Каша из дробленной ячневой крупы",
+        "average_price": 6963,
+        "max_price": 6963,
+        "min_price": 6963
+    },
+    {
+        "product_name": "Каша из дробленной ячневой крупы",
+        "average_price": 8845,
+        "max_price": 8845,
+        "min_price": 8845
+    },
+    {
+        "product_name": "Каша из дробленной ячневой крупы",
+        "average_price": 5361,
+        "max_price": 5361,
+        "min_price": 5361
+    },
+    {
+        "product_name": "Каша из дробленной ячневой крупы",
+        "average_price": 4065,
+        "max_price": 4065,
+        "min_price": 4065
+    },
+    {
+        "product_name": "Каша из дробленной ячневой крупы",
+        "average_price": 4813,
+        "max_price": 4813,
+        "min_price": 4813
+    },
+    {
+        "product_name": "Каша из дробленной ячневой крупы",
+        "average_price": 1310,
+        "max_price": 1310,
+        "min_price": 1310
+    },
+    {
+        "product_name": "Каша из дробленной ячневой крупы",
+        "average_price": 3910,
+        "max_price": 3910,
+        "min_price": 3910
+    },
+    {
+        "product_name": "Каша из дробленной ячневой крупы",
+        "average_price": 3729,
+        "max_price": 3729,
+        "min_price": 3729
+    },
+    {
+        "product_name": "Каша из дробленной ячневой крупы",
+        "average_price": 939,
+        "max_price": 939,
+        "min_price": 939
+    },
+    {
+        "product_name": "Каша из дробленной ячневой крупы",
+        "average_price": 9869,
+        "max_price": 9869,
+        "min_price": 9869
+    },
+    {
+        "product_name": "Каша из дробленной ячневой крупы",
+        "average_price": 5812,
+        "max_price": 5812,
+        "min_price": 5812
+    },
+    {
+        "product_name": "Каша из дробленной ячневой крупы",
+        "average_price": 5110,
+        "max_price": 5110,
+        "min_price": 5110
+    },
+    {
+        "product_name": "Каша из дробленной ячневой крупы",
+        "average_price": 4960,
+        "max_price": 4960,
+        "min_price": 4960
+    },
+    {
+        "product_name": "Каша из дробленной ячневой крупы",
+        "average_price": 6231,
+        "max_price": 6231,
+        "min_price": 6231
+    },
+    {
+        "product_name": "Каша из дробленной ячневой крупы",
+        "average_price": 9331,
+        "max_price": 9331,
+        "min_price": 9331
+    },
+    {
+        "product_name": "Каша из дробленной ячневой крупы",
+        "average_price": 7674,
+        "max_price": 7674,
+        "min_price": 7674
+    },
+    {
+        "product_name": "Каша из дробленной ячневой крупы",
+        "average_price": 4672,
+        "max_price": 4672,
+        "min_price": 4672
+    },
+    {
+        "product_name": "Каша из дробленной ячневой крупы",
+        "average_price": 4073,
+        "max_price": 4073,
+        "min_price": 4073
+    },
+    {
+        "product_name": "Каша из дробленной ячневой крупы",
+        "average_price": 2223,
+        "max_price": 2223,
+        "min_price": 2223
+    },
+    {
+        "product_name": "Perrier",
+        "average_price": 8098,
+        "max_price": 8098,
+        "min_price": 8098
+    },
+    {
+        "product_name": "Perrier",
+        "average_price": 995,
+        "max_price": 995,
+        "min_price": 995
+    },
+    {
+        "product_name": "Perrier",
+        "average_price": 4643,
+        "max_price": 4643,
+        "min_price": 4643
+    },
+    {
+        "product_name": "Perrier",
+        "average_price": 4737,
+        "max_price": 4737,
+        "min_price": 4737
+    },
+    {
+        "product_name": "Perrier",
+        "average_price": 5325,
+        "max_price": 5325,
+        "min_price": 5325
+    },
+    {
+        "product_name": "Perrier",
+        "average_price": 4038,
+        "max_price": 4038,
+        "min_price": 4038
+    },
+    {
+        "product_name": "Perrier",
+        "average_price": 5802,
+        "max_price": 5802,
+        "min_price": 5802
+    },
+    {
+        "product_name": "Perrier",
+        "average_price": 295,
+        "max_price": 295,
+        "min_price": 295
+    },
+    {
+        "product_name": "Perrier",
+        "average_price": 5820,
+        "max_price": 5820,
+        "min_price": 5820
+    },
+    {
+        "product_name": "Perrier",
+        "average_price": 774,
+        "max_price": 774,
+        "min_price": 774
+    },
+    {
+        "product_name": "Эмменталь",
+        "average_price": 7810,
+        "max_price": 7810,
+        "min_price": 7810
+    },
+    {
+        "product_name": "Эмменталь",
+        "average_price": 9657,
+        "max_price": 9657,
+        "min_price": 9657
+    },
+    {
+        "product_name": "Эмменталь",
+        "average_price": 5676,
+        "max_price": 5676,
+        "min_price": 5676
+    },
+    {
+        "product_name": "Эмменталь",
+        "average_price": 8877,
+        "max_price": 8877,
+        "min_price": 8877
+    },
+    {
+        "product_name": "Эмменталь",
+        "average_price": 2357,
+        "max_price": 2357,
+        "min_price": 2357
+    },
+    {
+        "product_name": "Эмменталь",
+        "average_price": 8284,
+        "max_price": 8284,
+        "min_price": 8284
+    },
+    {
+        "product_name": "Эмменталь",
+        "average_price": 7504,
+        "max_price": 7504,
+        "min_price": 7504
+    },
+    {
+        "product_name": "Эмменталь",
+        "average_price": 5126,
+        "max_price": 5126,
+        "min_price": 5126
+    },
+    {
+        "product_name": "Эмменталь",
+        "average_price": 9198,
+        "max_price": 9198,
+        "min_price": 9198
+    },
+    {
+        "product_name": "Эмменталь",
+        "average_price": 7772,
+        "max_price": 7772,
+        "min_price": 7772
+    },
+    {
+        "product_name": "Эмменталь",
+        "average_price": 466,
+        "max_price": 466,
+        "min_price": 466
+    },
+    {
+        "product_name": "Эмменталь",
+        "average_price": 4166,
+        "max_price": 4166,
+        "min_price": 4166
+    },
+    {
+        "product_name": "Эмменталь",
+        "average_price": 1746,
+        "max_price": 1746,
+        "min_price": 1746
+    },
+    {
+        "product_name": "Молоко",
+        "average_price": 6586,
+        "max_price": 6586,
+        "min_price": 6586
+    },
+    {
+        "product_name": "Молоко",
+        "average_price": 3152,
+        "max_price": 3152,
+        "min_price": 3152
+    },
+    {
+        "product_name": "Молоко",
+        "average_price": 5641,
+        "max_price": 5641,
+        "min_price": 5641
+    },
+    {
+        "product_name": "Молоко",
+        "average_price": 9988,
+        "max_price": 9988,
+        "min_price": 9988
+    },
+    {
+        "product_name": "Молоко",
+        "average_price": 5623,
+        "max_price": 5623,
+        "min_price": 5623
+    },
+    {
+        "product_name": "Молоко",
+        "average_price": 7776,
+        "max_price": 7776,
+        "min_price": 7776
+    },
+    {
+        "product_name": "Молоко",
+        "average_price": 4450,
+        "max_price": 4450,
+        "min_price": 4450
+    },
+    {
+        "product_name": "Молоко",
+        "average_price": 2261,
+        "max_price": 2261,
+        "min_price": 2261
+    },
+    {
+        "product_name": "Молоко",
+        "average_price": 2270,
+        "max_price": 2270,
+        "min_price": 2270
+    },
+    {
+        "product_name": "Молоко",
+        "average_price": 1953,
+        "max_price": 1953,
+        "min_price": 1953
+    },
+    {
+        "product_name": "Молоко",
+        "average_price": 4734,
+        "max_price": 4734,
+        "min_price": 4734
+    },
+    {
+        "product_name": "Молоко",
+        "average_price": 4225,
+        "max_price": 4225,
+        "min_price": 4225
+    },
+    {
+        "product_name": "Молоко",
+        "average_price": 5647,
+        "max_price": 5647,
+        "min_price": 5647
+    },
+    {
+        "product_name": "Молоко",
+        "average_price": 4487,
+        "max_price": 4487,
+        "min_price": 4487
+    },
+    {
+        "product_name": "Гауда",
+        "average_price": 1526,
+        "max_price": 1526,
+        "min_price": 1526
+    },
+    {
+        "product_name": "Гауда",
+        "average_price": 3183,
+        "max_price": 3183,
+        "min_price": 3183
+    },
+    {
+        "product_name": "Гауда",
+        "average_price": 1102,
+        "max_price": 1102,
+        "min_price": 1102
+    },
+    {
+        "product_name": "Гауда",
+        "average_price": 4526,
+        "max_price": 4526,
+        "min_price": 4526
+    },
+    {
+        "product_name": "Гауда",
+        "average_price": 7246,
+        "max_price": 7246,
+        "min_price": 7246
+    },
+    {
+        "product_name": "Гауда",
+        "average_price": 4537,
+        "max_price": 4537,
+        "min_price": 4537
+    },
+    {
+        "product_name": "Гауда",
+        "average_price": 1129,
+        "max_price": 1129,
+        "min_price": 1129
+    },
+    {
+        "product_name": "Гауда",
+        "average_price": 4569,
+        "max_price": 4569,
+        "min_price": 4569
+    },
+    {
+        "product_name": "Гауда",
+        "average_price": 9519,
+        "max_price": 9519,
+        "min_price": 9519
+    },
+    {
+        "product_name": "Гауда",
+        "average_price": 5634,
+        "max_price": 5634,
+        "min_price": 5634
+    },
+    {
+        "product_name": "Топлёное молоко",
+        "average_price": 1146,
+        "max_price": 1146,
+        "min_price": 1146
+    },
+    {
+        "product_name": "Топлёное молоко",
+        "average_price": 4987,
+        "max_price": 4987,
+        "min_price": 4987
+    },
+    {
+        "product_name": "Топлёное молоко",
+        "average_price": 3481,
+        "max_price": 3481,
+        "min_price": 3481
+    },
+    {
+        "product_name": "Топлёное молоко",
+        "average_price": 776,
+        "max_price": 776,
+        "min_price": 776
+    },
+    {
+        "product_name": "Топлёное молоко",
+        "average_price": 1667,
+        "max_price": 1667,
+        "min_price": 1667
+    },
+    {
+        "product_name": "Топлёное молоко",
+        "average_price": 5008,
+        "max_price": 5008,
+        "min_price": 5008
+    },
+    {
+        "product_name": "Цукини",
+        "average_price": 8350,
+        "max_price": 8350,
+        "min_price": 8350
+    },
+    {
+        "product_name": "Цукини",
+        "average_price": 8196,
+        "max_price": 8196,
+        "min_price": 8196
+    },
+    {
+        "product_name": "Цукини",
+        "average_price": 1757,
+        "max_price": 1757,
+        "min_price": 1757
+    },
+    {
+        "product_name": "Цукини",
+        "average_price": 6288,
+        "max_price": 6288,
+        "min_price": 6288
+    },
+    {
+        "product_name": "Цукини",
+        "average_price": 9591,
+        "max_price": 9591,
+        "min_price": 9591
+    },
+    {
+        "product_name": "Цукини",
+        "average_price": 7311,
+        "max_price": 7311,
+        "min_price": 7311
+    },
+    {
+        "product_name": "Пакеты для косметики",
+        "average_price": 5992,
+        "max_price": 5992,
+        "min_price": 5992
+    },
+    {
+        "product_name": "Пакеты для косметики",
+        "average_price": 2490,
+        "max_price": 2490,
+        "min_price": 2490
+    },
+    {
+        "product_name": "Пакеты для косметики",
+        "average_price": 2707,
+        "max_price": 2707,
+        "min_price": 2707
+    },
+    {
+        "product_name": "Пакеты для косметики",
+        "average_price": 8059,
+        "max_price": 8059,
+        "min_price": 8059
+    },
+    {
+        "product_name": "Пакеты для косметики",
+        "average_price": 7095,
+        "max_price": 7095,
+        "min_price": 7095
+    },
+    {
+        "product_name": "Пакеты для косметики",
+        "average_price": 9020,
+        "max_price": 9020,
+        "min_price": 9020
+    },
+    {
+        "product_name": "Пакеты для косметики",
+        "average_price": 8093,
+        "max_price": 8093,
+        "min_price": 8093
+    },
+    {
+        "product_name": "Пакеты для косметики",
+        "average_price": 4389,
+        "max_price": 4389,
+        "min_price": 4389
+    },
+    {
+        "product_name": "Пакеты для косметики",
+        "average_price": 1518,
+        "max_price": 1518,
+        "min_price": 1518
+    },
+    {
+        "product_name": "Пакеты для косметики",
+        "average_price": 5560,
+        "max_price": 5560,
+        "min_price": 5560
+    },
+    {
+        "product_name": "Пакеты для косметики",
+        "average_price": 1077,
+        "max_price": 1077,
+        "min_price": 1077
+    },
+    {
+        "product_name": "Пакеты для косметики",
+        "average_price": 1229,
+        "max_price": 1229,
+        "min_price": 1229
+    },
+    {
+        "product_name": "Кабачок",
+        "average_price": 2539,
+        "max_price": 2539,
+        "min_price": 2539
+    },
+    {
+        "product_name": "Кабачок",
+        "average_price": 8601,
+        "max_price": 8601,
+        "min_price": 8601
+    },
+    {
+        "product_name": "Кабачок",
+        "average_price": 636,
+        "max_price": 636,
+        "min_price": 636
+    },
+    {
+        "product_name": "Кабачок",
+        "average_price": 7049,
+        "max_price": 7049,
+        "min_price": 7049
+    },
+    {
+        "product_name": "Кабачок",
+        "average_price": 9227,
+        "max_price": 9227,
+        "min_price": 9227
+    },
+    {
+        "product_name": "Кабачок",
+        "average_price": 4415,
+        "max_price": 4415,
+        "min_price": 4415
+    },
+    {
+        "product_name": "Кабачок",
+        "average_price": 8635,
+        "max_price": 8635,
+        "min_price": 8635
+    },
+    {
+        "product_name": "Кабачок",
+        "average_price": 760,
+        "max_price": 760,
+        "min_price": 760
+    },
+    {
+        "product_name": "Тан",
+        "average_price": 7086,
+        "max_price": 7086,
+        "min_price": 7086
+    },
+    {
+        "product_name": "Тан",
+        "average_price": 6411,
+        "max_price": 6411,
+        "min_price": 6411
+    },
+    {
+        "product_name": "Тан",
+        "average_price": 902,
+        "max_price": 902,
+        "min_price": 902
+    },
+    {
+        "product_name": "Тан",
+        "average_price": 7267,
+        "max_price": 7267,
+        "min_price": 7267
+    },
+    {
+        "product_name": "Тан",
+        "average_price": 5262,
+        "max_price": 5262,
+        "min_price": 5262
+    },
+    {
+        "product_name": "Тан",
+        "average_price": 3368,
+        "max_price": 3368,
+        "min_price": 3368
+    },
+    {
+        "product_name": "Тан",
+        "average_price": 3141,
+        "max_price": 3141,
+        "min_price": 3141
+    },
+    {
+        "product_name": "Фейхоа",
+        "average_price": 7073,
+        "max_price": 7073,
+        "min_price": 7073
+    },
+    {
+        "product_name": "Фейхоа",
+        "average_price": 7821,
+        "max_price": 7821,
+        "min_price": 7821
+    },
+    {
+        "product_name": "Фейхоа",
+        "average_price": 5327,
+        "max_price": 5327,
+        "min_price": 5327
+    },
+    {
+        "product_name": "Фейхоа",
+        "average_price": 8479,
+        "max_price": 8479,
+        "min_price": 8479
+    },
+    {
+        "product_name": "Фейхоа",
+        "average_price": 8964,
+        "max_price": 8964,
+        "min_price": 8964
+    },
+    {
+        "product_name": "Шея",
+        "average_price": 5377,
+        "max_price": 5377,
+        "min_price": 5377
+    },
+    {
+        "product_name": "Шея",
+        "average_price": 8981,
+        "max_price": 8981,
+        "min_price": 8981
+    },
+    {
+        "product_name": "Шея",
+        "average_price": 3469,
+        "max_price": 3469,
+        "min_price": 3469
+    },
+    {
+        "product_name": "Шея",
+        "average_price": 7220,
+        "max_price": 7220,
+        "min_price": 7220
+    },
+    {
+        "product_name": "Шея",
+        "average_price": 2947,
+        "max_price": 2947,
+        "min_price": 2947
+    },
+    {
+        "product_name": "Шея",
+        "average_price": 4299,
+        "max_price": 4299,
+        "min_price": 4299
+    },
+    {
+        "product_name": "Шея",
+        "average_price": 8093,
+        "max_price": 8093,
+        "min_price": 8093
+    },
+    {
+        "product_name": "Шея",
+        "average_price": 7174,
+        "max_price": 7174,
+        "min_price": 7174
+    },
+    {
+        "product_name": "Шея",
+        "average_price": 776,
+        "max_price": 776,
+        "min_price": 776
+    },
+    {
+        "product_name": "Шея",
+        "average_price": 447,
+        "max_price": 447,
+        "min_price": 447
+    },
+    {
+        "product_name": "Шея",
+        "average_price": 8073,
+        "max_price": 8073,
+        "min_price": 8073
+    },
+    {
+        "product_name": "Шея",
+        "average_price": 300,
+        "max_price": 300,
+        "min_price": 300
+    },
+    {
+        "product_name": "Шея",
+        "average_price": 7592,
+        "max_price": 7592,
+        "min_price": 7592
+    },
+    {
+        "product_name": "Шея",
+        "average_price": 4543,
+        "max_price": 4543,
+        "min_price": 4543
+    },
+    {
+        "product_name": "Шея",
+        "average_price": 9156,
+        "max_price": 9156,
+        "min_price": 9156
+    },
+    {
+        "product_name": "Шея",
+        "average_price": 5580,
+        "max_price": 5580,
+        "min_price": 5580
+    },
+    {
+        "product_name": "Фарш говяжий",
+        "average_price": 2266,
+        "max_price": 2266,
+        "min_price": 2266
+    },
+    {
+        "product_name": "Фарш говяжий",
+        "average_price": 5857,
+        "max_price": 5857,
+        "min_price": 5857
+    },
+    {
+        "product_name": "Фарш говяжий",
+        "average_price": 5142,
+        "max_price": 5142,
+        "min_price": 5142
+    },
+    {
+        "product_name": "Фарш говяжий",
+        "average_price": 2695,
+        "max_price": 2695,
+        "min_price": 2695
+    },
+    {
+        "product_name": "Фарш говяжий",
+        "average_price": 136,
+        "max_price": 136,
+        "min_price": 136
+    },
+    {
+        "product_name": "Фарш говяжий",
+        "average_price": 2643,
+        "max_price": 2643,
+        "min_price": 2643
+    },
+    {
+        "product_name": "Фарш говяжий",
+        "average_price": 6967,
+        "max_price": 6967,
+        "min_price": 6967
+    },
+    {
+        "product_name": "Бритвенный станок",
+        "average_price": 8996,
+        "max_price": 8996,
+        "min_price": 8996
+    },
+    {
+        "product_name": "Бритвенный станок",
+        "average_price": 8222,
+        "max_price": 8222,
+        "min_price": 8222
+    },
+    {
+        "product_name": "Бритвенный станок",
+        "average_price": 4202,
+        "max_price": 4202,
+        "min_price": 4202
+    },
+    {
+        "product_name": "Бритвенный станок",
+        "average_price": 6863,
+        "max_price": 6863,
+        "min_price": 6863
+    },
+    {
+        "product_name": "Бритвенный станок",
+        "average_price": 4556,
+        "max_price": 4556,
+        "min_price": 4556
+    },
+    {
+        "product_name": "Бритвенный станок",
+        "average_price": 6134,
+        "max_price": 6134,
+        "min_price": 6134
+    },
+    {
+        "product_name": "Бритвенный станок",
+        "average_price": 8993,
+        "max_price": 8993,
+        "min_price": 8993
+    },
+    {
+        "product_name": "Бритвенный станок",
+        "average_price": 9710,
+        "max_price": 9710,
+        "min_price": 9710
+    },
+    {
+        "product_name": "Бритвенный станок",
+        "average_price": 3827,
+        "max_price": 3827,
+        "min_price": 3827
+    },
+    {
+        "product_name": "Бритвенный станок",
+        "average_price": 1478,
+        "max_price": 1478,
+        "min_price": 1478
+    },
+    {
+        "product_name": "Бритвенный станок",
+        "average_price": 7687,
+        "max_price": 7687,
+        "min_price": 7687
+    },
+    {
+        "product_name": "Бритвенный станок",
+        "average_price": 6138,
+        "max_price": 6138,
+        "min_price": 6138
+    },
+    {
+        "product_name": "Бритвенный станок",
+        "average_price": 7691,
+        "max_price": 7691,
+        "min_price": 7691
+    },
+    {
+        "product_name": "Бритвенный станок",
+        "average_price": 9098,
+        "max_price": 9098,
+        "min_price": 9098
+    },
+    {
+        "product_name": "Бритвенный станок",
+        "average_price": 7808,
+        "max_price": 7808,
+        "min_price": 7808
+    },
+    {
+        "product_name": "Бритвенный станок",
+        "average_price": 3516,
+        "max_price": 3516,
+        "min_price": 3516
+    },
+    {
+        "product_name": "Бритвенный станок",
+        "average_price": 5922,
+        "max_price": 5922,
+        "min_price": 5922
+    },
+    {
+        "product_name": "Бритвенный станок",
+        "average_price": 7225,
+        "max_price": 7225,
+        "min_price": 7225
+    },
+    {
+        "product_name": "Бритвенный станок",
+        "average_price": 8256,
+        "max_price": 8256,
+        "min_price": 8256
+    },
+    {
+        "product_name": "Мармелад",
+        "average_price": 5520,
+        "max_price": 5520,
+        "min_price": 5520
+    },
+    {
+        "product_name": "Мармелад",
+        "average_price": 3730,
+        "max_price": 3730,
+        "min_price": 3730
+    },
+    {
+        "product_name": "Мармелад",
+        "average_price": 2711,
+        "max_price": 2711,
+        "min_price": 2711
+    },
+    {
+        "product_name": "Мармелад",
+        "average_price": 197,
+        "max_price": 197,
+        "min_price": 197
+    },
+    {
+        "product_name": "Мармелад",
+        "average_price": 3348,
+        "max_price": 3348,
+        "min_price": 3348
+    },
+    {
+        "product_name": "Мармелад",
+        "average_price": 2462,
+        "max_price": 2462,
+        "min_price": 2462
+    },
+    {
+        "product_name": "Мармелад",
+        "average_price": 6912,
+        "max_price": 6912,
+        "min_price": 6912
+    },
+    {
+        "product_name": "Мармелад",
+        "average_price": 5653,
+        "max_price": 5653,
+        "min_price": 5653
+    },
+    {
+        "product_name": "Мармелад",
+        "average_price": 6086,
+        "max_price": 6086,
+        "min_price": 6086
+    },
+    {
+        "product_name": "Мармелад",
+        "average_price": 7817,
+        "max_price": 7817,
+        "min_price": 7817
+    },
+    {
+        "product_name": "Мармелад",
+        "average_price": 7797,
+        "max_price": 7797,
+        "min_price": 7797
+    },
+    {
+        "product_name": "Мармелад",
+        "average_price": 5147,
+        "max_price": 5147,
+        "min_price": 5147
+    },
+    {
+        "product_name": "Мармелад",
+        "average_price": 783,
+        "max_price": 783,
+        "min_price": 783
+    },
+    {
+        "product_name": "Мармелад",
+        "average_price": 475,
+        "max_price": 475,
+        "min_price": 475
+    },
+    {
+        "product_name": "Мармелад",
+        "average_price": 6548,
+        "max_price": 6548,
+        "min_price": 6548
+    },
+    {
+        "product_name": "Фейхоа",
+        "average_price": 2392,
+        "max_price": 2392,
+        "min_price": 2392
+    },
+    {
+        "product_name": "Фейхоа",
+        "average_price": 6753,
+        "max_price": 6753,
+        "min_price": 6753
+    },
+    {
+        "product_name": "Фейхоа",
+        "average_price": 8738,
+        "max_price": 8738,
+        "min_price": 8738
+    },
+    {
+        "product_name": "Фейхоа",
+        "average_price": 2379,
+        "max_price": 2379,
+        "min_price": 2379
+    },
+    {
+        "product_name": "Фейхоа",
+        "average_price": 2789,
+        "max_price": 2789,
+        "min_price": 2789
+    },
+    {
+        "product_name": "Фейхоа",
+        "average_price": 8736,
+        "max_price": 8736,
+        "min_price": 8736
+    },
+    {
+        "product_name": "Фейхоа",
+        "average_price": 7038,
+        "max_price": 7038,
+        "min_price": 7038
+    },
+    {
+        "product_name": "Фейхоа",
+        "average_price": 3194,
+        "max_price": 3194,
+        "min_price": 3194
+    },
+    {
+        "product_name": "Фейхоа",
+        "average_price": 3957,
+        "max_price": 3957,
+        "min_price": 3957
+    },
+    {
+        "product_name": "Фейхоа",
+        "average_price": 7658,
+        "max_price": 7658,
+        "min_price": 7658
+    }
+]
